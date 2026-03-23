@@ -49,13 +49,8 @@ Your score must exceed Claude's score on the same challenge.
 | Challenge | Role | Difficulty |
 |---|---|---|
 | [Growth Manager — TikTok Shop](./challenges/growth-manager-tiktok.md) | Growth Manager | Hard |
-| [Email Marketing Specialist](./challenges/email-marketing-specialist.md) | Email Marketing Specialist | Medium |
-| [Video Editor](./challenges/video-editor.md) | Video Editor | Medium |
-| [Creative Operations Manager](./challenges/creative-operations-manager.md) | Creative Operations Manager | Hard |
-| [Performance Marketing Specialist](./challenges/performance-marketing-specialist.md) | Performance Marketing Specialist | Medium |
-| [Ambassador & Partnerships Manager](./challenges/ambassador-partnerships-manager.md) | Ambassador & Partnerships Manager | Medium |
 
-More challenges added as roles open. Check back or watch this repo.
+More challenges coming soon. Star or watch this repo to get notified when new roles drop.
 
 ## About Prenetics
 
