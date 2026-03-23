@@ -8,7 +8,7 @@ At Prenetics, we believe the best candidates bring what AI can't — creative le
 
 1. **Pick a challenge** — Browse open roles in the [`/challenges`](./challenges) directory
 2. **Read the brief** — Each challenge is a real-world scenario relevant to the role
-3. **Submit your answer** — Apply on our [careers page](https://careers.prenetics.com) and upload your response
+3. **Submit your answer** — Email your response to **recruitment@prenetics.com** with the challenge name in the subject line
 4. **We compare** — Your submission is blind-reviewed against Claude's baseline answer
 5. **Beat Claude → Get an interview** — Outscore the AI and you're in
 
@@ -64,7 +64,8 @@ More challenges added as roles open. Check back or watch this repo.
 ## Apply
 
 1. Complete a challenge
-2. Apply at [careers.prenetics.com](https://careers.prenetics.com)
-3. Upload your response with your application
+2. Email your response (PDF or Markdown) to **recruitment@prenetics.com**
+3. Subject line: `Beat Claude — [Challenge Name]` (e.g. "Beat Claude — Growth Manager TikTok Shop")
+4. Include your name, LinkedIn, and the role you're applying for
 
-Questions? Reach out to hr.ops@prenetics.com
+Questions? Reach out to recruitment@prenetics.com
