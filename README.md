@@ -14,43 +14,36 @@ At Prenetics, we believe the best candidates bring what AI can't — creative le
 
 ## Rules
 
-- **Use whatever you want** — AI tools, research, your network. We don't care how you get there, we care about the output
-- **Copy-pasting AI output = a tie** — Ties don't advance. We're looking for what makes you better than the machine
-- **Time:** 1–2 hours recommended
-- **Length:** 4 pages max
-- **Format:** PDF or Markdown
+- **Use whatever you want** — AI tools, research, colleagues. We care about the quality of your thinking, not the process
+- **Copy-pasting AI output = a tie** — Ties don't advance. Claude already gave us that answer
+- **One submission only** — Make it count
+- **Format:** PDF or Google Slides (max pages specified per challenge)
+- **Deadline:** 5 calendar days from when you receive the brief
 
 ## What We're Looking For
 
-AI can do 80% of knowledge work. We're hiring for the 20% it can't:
+Each challenge has its own scoring rubric tailored to the role. But across all roles, we value:
 
-- **Strategic depth** — Do you see what others miss?
-- **Specificity** — Can someone execute your plan tomorrow?
-- **AI fluency** — Do you know how to leverage AI, not just use it?
-- **Creativity** — Original thinking, not recycled playbooks
-- **Communication** — Clear, concise, executive-ready
-
-## Scoring
-
-Submissions are scored on 5 dimensions (100 points total). See [`SCORING.md`](./SCORING.md) for the full rubric.
-
-| Dimension | Points |
-|---|---|
-| Strategic Depth | 30 |
-| Specificity | 25 |
-| AI Fluency | 20 |
-| Creativity | 15 |
-| Communication | 10 |
-
-Your score must exceed Claude's score on the same challenge.
+- **Commercial depth** — Do you understand the business, not just the function?
+- **Specificity** — Could someone execute your plan tomorrow?
+- **AI fluency** — Show us how you actually use AI. Prompts, workflows, not buzzwords
+- **Platform/domain knowledge** — The kind of instinct that only comes from having done the work
+- **Judgment** — What AI can research, you can too. What AI can't do is prioritise, trade off, and make calls under uncertainty
 
 ## Open Challenges
 
 | Challenge | Role | Difficulty |
 |---|---|---|
-| [Growth Manager — TikTok Shop](./challenges/growth-manager-tiktok.md) | Growth Manager | Hard |
+| [Growth Manager — TikTok Shop](./challenges/growth-manager-tiktok.md) | Growth Manager (TikTok Shop) | Hard |
+| [Customer Experience Manager](./challenges/cx-manager.md) | CX Manager | Medium |
+| [Email Marketing Specialist](./challenges/email-marketing-specialist.md) | Email Marketing Specialist | Medium |
+| [Video Editor](./challenges/video-editor.md) | Video Editor | Medium |
+| [Creative Strategist](./challenges/creative-strategist.md) | Creative Strategist | Hard |
+| [Performance Marketing Specialist](./challenges/performance-marketing-specialist.md) | Performance Marketing Specialist | Hard |
+| [Ambassador & Partnerships Manager](./challenges/ambassador-partnerships-manager.md) | Ambassador & Partnerships Manager | Medium |
+| [Full-Stack Engineer](./challenges/full-stack-engineer.md) | Senior Full-Stack Engineer | Hard |
 
-More challenges coming soon. Star or watch this repo to get notified when new roles drop.
+More challenges added as roles open. Star or watch this repo to get notified.
 
 ## About Prenetics
 
@@ -58,9 +51,14 @@ More challenges coming soon. Star or watch this repo to get notified when new ro
 
 ## Apply
 
-1. Complete a challenge
-2. Email your response (PDF or Markdown) to **recruitment@prenetics.com**
-3. Subject line: `Beat Claude — [Challenge Name]` (e.g. "Beat Claude — Growth Manager TikTok Shop")
-4. Include your name, LinkedIn, and the role you're applying for
+1. Pick a challenge that matches the role you're applying for
+2. Complete it using whatever tools and resources you want
+3. Email your submission (PDF or Google Slides) to **recruitment@prenetics.com**
+4. Subject line: `Beat Claude — [Role Name]`
+5. Include your name, LinkedIn, and resume
 
-Questions? Reach out to recruitment@prenetics.com
+Claude's baseline was generated with the exact same brief you received. It has already researched IM8, audited the public data, and built its answer. To beat it, you need to bring something AI can't.
+
+*Ties don't advance.*
+
+Questions? Email recruitment@prenetics.com
