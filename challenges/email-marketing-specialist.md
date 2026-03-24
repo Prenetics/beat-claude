@@ -38,54 +38,50 @@ You are the newly hired Email Marketing Specialist at IM8 Health. Your first ass
 
 ---
 
-## Part 1: Email Audit of IM8's Current Emails (35%)
+## Part 1: Full 360 Email & SMS Strategy (35%)
 
 ### What to do:
 
-Sign up to IM8's email list at **im8health.com** and observe the current email experience as a subscriber. Then conduct a thorough audit covering:
+Design IM8's **complete email and SMS marketing strategy** across the full customer lifecycle. This is not an audit of what exists — it's your blueprint for what IM8's email programme should look like.
 
-- **Welcome Flow Analysis:** Map out every email you receive after signup. Document timing, subject lines, preview text, content structure, CTAs, and design.
-- **Content & Messaging Review:** Evaluate the brand voice, value propositions used, personalization (or lack thereof), and how well the emails communicate IM8's key differentiators (92 nutrients, NSF Certified for Sport, RCT-backed, Beckham co-founder).
-- **Technical Assessment:** Review email rendering, mobile responsiveness, load times, link functionality, unsubscribe experience, and any segmentation signals you can detect.
-- **Competitive Benchmarking:** Sign up to 2–3 competitor email lists (e.g., Athletic Greens/AG1, Ritual, Momentous, Huel) and compare their email strategy to IM8's.
-- **Gap Analysis:** Identify the top 5–7 opportunities for improvement, ranked by potential impact on subscriber retention and revenue.
+### Your strategy must cover:
 
-### What we want to see:
-
-- Screenshots of actual emails received
-- Specific, actionable observations (not generic best practices)
-- A clear understanding of what a premium supplement subscription email program should look like
-- Evidence that you actually went through the experience yourself
-
----
-
-## Part 2: 60-Day Post-Purchase Retention Flow (35%)
-
-### What to do:
-
-Design a complete 60-day post-purchase email/SMS flow for a new IM8 subscriber who has just placed their first order of Daily Ultimate Essentials. This flow should maximize the probability of subscription retention through the critical first two months.
-
-### Your flow design must include:
-
-- **Flow Map:** Visual diagram showing every touchpoint, timing, branching logic, and conditional splits (e.g., engaged vs. disengaged, opened vs. not opened, subscription active vs. cancelled).
-- **Email Briefs (minimum 8–10 emails):** For each email, provide:
-  - Trigger/timing
-  - Subject line + preview text (A/B variants where appropriate)
-  - Content outline (hero image direction, body copy themes, CTA)
-  - Goal of the email (educate, build habit, reduce churn, upsell, etc.)
-  - Segment/condition for sending
-- **SMS Touchpoints:** Include 2–3 SMS messages within the flow with copy and timing.
-- **Key Metrics:** Define the KPIs you'd track for this flow (open rate, click rate, churn rate at day 30/60, revenue per recipient, etc.) and what benchmarks you'd target.
-- **Churn Prevention Logic:** Specifically address how the flow handles signals of disengagement — what triggers a "save" sequence, and what does that sequence look like?
-- **Content Strategy Rationale:** Explain *why* each email exists in the sequence. What psychological or behavioral principle drives the timing and content?
+- **Lifecycle Stages:** Map every key stage from acquisition through to loyal subscriber — awareness, first purchase, onboarding, retention, win-back, and advocacy. What role does email/SMS play at each stage?
+- **Flow Architecture:** What are the core automated flows you would build in Klaviyo? (Welcome series, post-purchase, subscription renewal, churn prevention, win-back, VIP, referral, etc.) For each flow, describe the trigger, audience, and goal.
+- **Campaign Calendar:** What does a typical month of email campaigns look like? Weekly sends, product drops, seasonal moments, content themes.
+- **Copy Examples:** Write **3 full email examples** (subject line, preview text, full body copy, CTA) for different stages of the lifecycle. Show us you can write in IM8's premium brand voice.
+- **SMS Strategy:** Where does SMS fit alongside email? What messages are SMS-only vs. email-only vs. both? Include 2-3 SMS copy examples.
+- **Segmentation Approach:** How do you segment IM8's subscriber base? What segments matter most and why?
+- **Key Metrics & Benchmarks:** What KPIs do you track across the programme? What benchmarks are you targeting for a premium DTC subscription brand?
 
 ### Consider these IM8-specific angles:
 
-- Subscription supplements require **habit formation** — how do you build that via email?
-- IM8's RCT showed results over 12 weeks — how do you use this timeline to set expectations?
+- Subscription supplements require **habit formation** — how does your email strategy build that?
+- IM8's RCT showed results over 12 weeks — how do you use this timeline to set expectations and reduce early churn?
 - David Beckham, Aryna Sabalenka, and Oliver Bearman are brand ambassadors — when and how do you deploy social proof?
 - NSF Certified for Sport is a trust signal — where does it fit in the journey?
-- The product is premium-priced — how do you reinforce value perception post-purchase?
+- The product is premium-priced — how do you reinforce value perception across the lifecycle?
+
+---
+
+## Part 2: Competitive Benchmarking & Gap Analysis (35%)
+
+### What to do:
+
+Sign up to **3-4 competitor email lists** (e.g., AG1, Ritual, Momentous, Huel, Seed) and compare their email strategies to what you're proposing for IM8.
+
+### Your analysis should include:
+
+- **Screenshots** of competitor welcome emails, campaigns, and flows you received
+- For each competitor: what are they doing well? What's weak? What would you steal for IM8?
+- **Gap Analysis:** Based on the competitive landscape, what are the top 5 opportunities for IM8 to differentiate through email?
+- How does your proposed strategy in Part 1 address these gaps?
+
+### What we want to see:
+
+- Evidence you actually signed up and went through the experience
+- Specific, actionable observations (not generic best practices)
+- A clear understanding of what best-in-class looks like for premium supplement subscription brands
 
 ---
 

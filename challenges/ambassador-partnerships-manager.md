@@ -104,56 +104,21 @@ Be specific. "IM8 should work with more creators" is not an insight. Tell us who
 
 ### What We Need From You
 
-Design IM8's partnership roadmap for the next 6 months. This should be a real operating plan, not a strategy deck.
+Design IM8's partnership roadmap for the next 6 months. This is open-ended by design — show us how you think about building a partnership ecosystem for a premium brand.
 
-**A. Partnership Tiers**
+**Your plan should cover:**
 
-Define IM8's partnership tier structure:
+- **Partnership Tiers** — How would you structure IM8's partnership programme? What tiers exist, what does each look like, and how are they compensated?
 
-| Tier | Description | Example Profile | Deal Structure | Expected Deliverables | Success Metrics | Budget Range |
-|------|-------------|-----------------|----------------|----------------------|-----------------|--------------|
+- **Target List** — Who would you go after? Name specific people and brands. Tell us why they're a fit and how you'd pitch them.
 
-Include at least 3-4 tiers (e.g., Founding Ambassadors, Pro Athletes, Macro Creators, Micro/Nano Creators, Affiliate Partners). For each tier:
-- What does the ideal partner look like?
-- What's the deal structure (cash, product, equity, rev-share, hybrid)?
-- What do they deliver and on what cadence?
-- How do you measure success?
+- **Activation** — For your top picks, how do you actually bring the partnership to life? What content gets created, where does it live, and how does it drive subscriptions?
 
-**B. Target List**
+- **Market Strategy** — IM8 operates in US, UK, HK, and APAC. How does the partnership approach differ by market?
 
-Name **10-15 specific people or brands** you would approach in the next 6 months. For each:
-- Who they are and why they're a fit for IM8
-- Which tier they fall into
-- Which market(s) they activate
-- What the pitch looks like (1-2 sentences — how do you get them interested?)
-- Estimated deal value range
-- Priority ranking (must-have, high-value, opportunistic)
+- **Measurement** — How do you prove partnerships are working? How do you decide when to double down or walk away?
 
-Don't play it safe. Show us you understand the difference between a partnership that looks good and one that drives subscriptions.
-
-**C. Activation Playbook**
-
-For your **top 3 target partners**, design the activation plan:
-- Content strategy: what do they create, where, how often?
-- Commerce integration: how does this drive im8health.com subscriptions?
-- Launch moment: what's the announcement strategy?
-- Ongoing cadence: how do you keep the partnership fresh after month 1?
-- Cross-pollination: how does each partnership amplify the others?
-
-**D. Market-Specific Considerations**
-
-IM8 operates in US, UK, HK, and APAC. Address:
-- How does the partnership strategy differ by market?
-- Which partners work globally vs. locally?
-- What are the regulatory/compliance considerations for ambassador marketing in each region?
-
-**E. Measurement Framework**
-
-How do you prove partnerships are working? Define:
-- Leading indicators (week 1-4)
-- Lagging indicators (month 2-6)
-- Attribution model — how do you connect a Beckham Instagram post to a subscription conversion?
-- When do you kill a partnership that isn't working? What are the exit criteria?
+We're deliberately not prescribing the format or level of detail for each section. How you choose to structure and prioritise this plan tells us as much as the content itself.
 
 ---
 
