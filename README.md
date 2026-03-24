@@ -47,7 +47,7 @@ More challenges added as roles open. Star or watch this repo to get notified.
 
 ## About Prenetics
 
-[Prenetics](https://www.prenetics.com) (NASDAQ: PRE) is a health sciences company advancing consumer and clinical health. Our brands include [IM8](https://im8.com) (co-founded by David Beckham), CircleDNA, and Insighta. We're building the future of health — and we want people who think beyond what AI can do.
+[Prenetics](https://www.prenetics.com) (NASDAQ: PRE) is a health sciences company advancing consumer and clinical health. Our brands include [IM8](https://im8.com) (co-founded by David Beckham) & CircleDNA. We're building the future of health — and we want people who think beyond what AI can do.
 
 ## Apply
 
