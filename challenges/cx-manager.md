@@ -1,7 +1,6 @@
 # Beat Claude Challenge: Customer Experience Manager
 
 **IM8 Health | Prenetics (NASDAQ: PRE)**
-*Co-founded by David Beckham & Danny Yeung*
 
 ---
 
