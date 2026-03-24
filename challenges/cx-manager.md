@@ -1,6 +1,7 @@
 # Beat Claude Challenge: Customer Experience Manager
 
 **IM8 Health | Prenetics (NASDAQ: PRE)**
+*Co-founded by David Beckham*
 
 ---
 
@@ -18,7 +19,7 @@ This challenge is designed to find people who can.
 
 ## About IM8
 
-IM8 is a premium nutritional supplement brand co-founded by David Beckham and Danny Yeung. Our flagship product — **Daily Ultimate Essentials** — delivers 92 clinically dosed nutrients in a single daily serving. NSF Certified for Sport, backed by a 12-week randomized controlled trial. Sold direct-to-consumer via im8health.com on a subscription model.
+IM8 is a premium nutritional supplement brand co-founded by David Beckham. Our flagship product — **Daily Ultimate Essentials** — delivers 92 clinically dosed nutrients in a single daily serving. NSF Certified for Sport, backed by a 12-week randomized controlled trial. Sold direct-to-consumer via im8health.com on a subscription model.
 
 Our ambassadors include **David Beckham**, **Aryna Sabalenka**, and **Oliver Bearman**.
 

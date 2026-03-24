@@ -22,7 +22,7 @@ This challenge was designed to evaluate your ability to think strategically, exe
 
 ## About IM8 Health
 
-IM8 is a premium nutritional supplement brand co-founded by David Beckham and Danny Yeung, backed by Prenetics (NASDAQ: PRE). Our flagship product — **Daily Ultimate Essentials** — delivers 92 clinically dosed nutrients in a single daily serving. It is NSF Certified for Sport and backed by a 12-week randomized controlled trial (RCT).
+IM8 is a premium nutritional supplement brand co-founded by David Beckham, backed by Prenetics (NASDAQ: PRE). Our flagship product — **Daily Ultimate Essentials** — delivers 92 clinically dosed nutrients in a single daily serving. It is NSF Certified for Sport and backed by a 12-week randomized controlled trial (RCT).
 
 IM8 sells primarily through **im8health.com** on a subscription model. Our brand ambassadors include **David Beckham**, **Aryna Sabalenka** (tennis), and **Oliver Bearman** (Formula 1).
 
