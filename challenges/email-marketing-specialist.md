@@ -173,9 +173,9 @@ Before starting, familiarize yourself with IM8 by reviewing these publicly avail
 - **Format:** PDF or Google Slides/Docs (with sharing enabled). Notion links also accepted.
 - **Length:** No strict limit, but quality over quantity. Aim for the equivalent of 8–12 pages.
 - **Deadline:** 5 days from receipt of this brief.
-- **Submit to:** recruitment@prenetics.com
-- **Subject Line:** Beat Claude — Email Marketing Specialist — [Your Name]
-- **Include:** A brief cover note (2–3 sentences) on your approach and anything you'd want us to know.
+- **Apply & upload your submission here:** [careers.prenetics.com — Email Marketing Specialist](https://careers.prenetics.com/jobs/7199354-email-marketing-specialist/applications/new)
+- Upload your Beat Claude submission using the **file upload field** on the application form
+- **Include:** Your resume and LinkedIn profile
 
 ---
 

@@ -214,9 +214,11 @@ Claude was given this exact brief and produced a response under the same constra
 ### Deadline
 Submit within **5 calendar days** of receiving this brief.
 
-### Send To
-**recruitment@prenetics.com**
-Subject line: `Beat Claude — Ambassador & Partnerships Manager — [Your Name]`
+### Apply Here
+**Apply & upload your submission:** [careers.prenetics.com — Ambassador & Partnerships Manager](https://careers.prenetics.com/jobs/7372457-ambassador-partnerships-manager/applications/new)
+
+Upload your Beat Claude submission using the **file upload field** on the application form.
+
 
 ---
 

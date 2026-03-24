@@ -53,9 +53,9 @@ More challenges added as roles open. Star or watch this repo to get notified.
 
 1. Pick a challenge that matches the role you're applying for
 2. Complete it using whatever tools and resources you want
-3. Email your submission (PDF or Google Slides) to **recruitment@prenetics.com**
-4. Subject line: `Beat Claude — [Role Name]`
-5. Include your name, LinkedIn, and resume
+3. Apply directly through the Teamtailor link in each challenge brief
+4. Upload your Beat Claude submission using the file upload field on the application form
+5. Include your resume and LinkedIn
 
 Claude's baseline was generated with the exact same brief you received. It has already researched IM8, audited the public data, and built its answer. To beat it, you need to bring something AI can't.
 

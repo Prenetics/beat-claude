@@ -208,9 +208,11 @@ Claude was given this exact brief and produced a response under the same constra
 ### Deadline
 Submit within **5 calendar days** of receiving this brief.
 
-### Send To
-**recruitment@prenetics.com**
-Subject line: `Beat Claude — CX Manager — [Your Name]`
+### Apply Here
+**Apply & upload your submission:** [careers.prenetics.com — Customer Experience Manager](https://careers.prenetics.com/jobs/7259414-customer-experience-manager/applications/new)
+
+Upload your Beat Claude submission using the **file upload field** on the application form.
+
 
 ---
 

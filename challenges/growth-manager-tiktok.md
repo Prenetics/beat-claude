@@ -52,9 +52,9 @@ Build us a detailed 90-day growth plan that covers:
 
 ## Submission
 
-1. Email your response (PDF or Markdown) to **recruitment@prenetics.com**
-2. Subject line: `Beat Claude — Growth Manager TikTok Shop`
-3. Include your name, LinkedIn, and any relevant portfolio links
+1. **Apply & upload your submission here:** [careers.prenetics.com — Growth Manager TikTok Shop](https://careers.prenetics.com/jobs/7372487-growth-manager-tiktok-shop/applications/new)
+2. Upload your Beat Claude submission using the **file upload field** on the application form
+3. Include your resume and LinkedIn
 4. We'll blind-review your answer against Claude's and get back to you within 5 business days
 
 Good luck. Make the AI sweat.

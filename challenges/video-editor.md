@@ -206,7 +206,9 @@ Before starting, immerse yourself in IM8's content world:
   - Spec edit: MP4 file (9:16 vertical, under 100MB) — upload via Google Drive link, WeTransfer, or similar
 - **Length:** Written portions should be the equivalent of 6–10 pages. Spec edit: 15–45 seconds.
 - **Deadline:** 5 days from receipt of this brief.
-- **Submit to:** recruitment@prenetics.com
+- **Apply & upload your submission here:** [careers.prenetics.com — Video Editor](https://careers.prenetics.com/jobs/7081061-video-editor/applications/new)
+- Upload your Beat Claude submission using the **file upload field** on the application form
+- Include your resume and LinkedIn
 - **Subject Line:** Beat Claude — Video Editor — [Your Name]
 - **Include:** A brief cover note (2–3 sentences) on your approach, tools used, and anything you'd want us to know.
 

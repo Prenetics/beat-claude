@@ -255,7 +255,9 @@ Before starting, conduct your reconnaissance:
 - **Format:** PDF or Google Slides/Docs (with sharing enabled). Notion links also accepted.
 - **Length:** No strict limit, but quality over quantity. Aim for the equivalent of 10–15 pages.
 - **Deadline:** 5 days from receipt of this brief.
-- **Submit to:** recruitment@prenetics.com
+- **Apply & upload your submission here:** [careers.prenetics.com — Performance Marketing Specialist](https://careers.prenetics.com/jobs/6723638-performance-marketing-specialist/applications/new)
+- Upload your Beat Claude submission using the **file upload field** on the application form
+- Include your resume and LinkedIn
 - **Subject Line:** Beat Claude — Performance Marketing Specialist — [Your Name]
 - **Include:** A brief cover note (2–3 sentences) on your approach and anything you'd want us to know.
 

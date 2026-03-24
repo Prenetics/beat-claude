@@ -248,7 +248,7 @@ All publicly available — no internal access needed:
 
 ### Format
 - **Design document:** PDF or Google Doc (Parts 1, 3, 4)
-- **Code:** GitHub repository (public or private — if private, grant access to recruitment@prenetics.com) OR zip file containing the project
+- **Code:** GitHub repository (public or private — if private, grant access to hr.ops@prenetics.com) OR zip file
 - Include a README with setup instructions
 - Maximum 10 pages for the design document (excluding architecture diagrams and code)
 
@@ -258,9 +258,11 @@ Claude was given this exact brief and produced a response under the same constra
 ### Deadline
 Submit within **7 calendar days** of receiving this brief.
 
-### Send To
-**recruitment@prenetics.com**
-Subject line: `Beat Claude — Full-Stack Engineer — [Your Name]`
+### Apply Here
+**Apply & upload your submission:** [careers.prenetics.com — Full-Stack Engineer](https://careers.prenetics.com/jobs/7100069-principal-senior-full-stack-engineer-backend-infrastructure-ai/applications/new)
+
+Upload your Beat Claude submission using the **file upload field** on the application form.
+
 
 ---
 

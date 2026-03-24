@@ -229,7 +229,9 @@ Before starting, immerse yourself in IM8's creative world and competitive landsc
 - **Format:** PDF or Google Slides/Docs (with sharing enabled). Notion links also accepted.
 - **Length:** No strict limit, but quality over quantity. Aim for the equivalent of 10–15 pages.
 - **Deadline:** 5 days from receipt of this brief.
-- **Submit to:** recruitment@prenetics.com
+- **Apply & upload your submission here:** [careers.prenetics.com — Creative Strategist](https://careers.prenetics.com/jobs/7070030-creative-strategist/applications/new)
+- Upload your Beat Claude submission using the **file upload field** on the application form
+- Include your resume and LinkedIn
 - **Subject Line:** Beat Claude — Creative Strategist — [Your Name]
 - **Include:** A brief cover note (2–3 sentences) on your approach and anything you'd want us to know.
 
