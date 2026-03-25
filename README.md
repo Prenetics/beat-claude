@@ -49,13 +49,19 @@ More challenges added as roles open. Star or watch this repo to get notified.
 
 [Prenetics](https://www.prenetics.com) (NASDAQ: PRE) is a health sciences company advancing consumer and clinical health. Our brands include [IM8](https://im8.com) (co-founded by David Beckham) & CircleDNA. We're building the future of health — and we want people who think beyond what AI can do.
 
-## Apply
+## How to Submit
 
-1. Pick a challenge that matches the role you're applying for
-2. Complete it using whatever tools and resources you want
-3. Apply directly through the Teamtailor link in each challenge brief
-4. Upload your Beat Claude submission using the file upload field on the application form
-5. Include your resume and LinkedIn
+**Option 1: Apply on our careers page (recommended)**
+1. Click the application link in the challenge brief
+2. Upload your Beat Claude submission using the file upload field
+3. Include your resume and LinkedIn
+
+**Option 2: Email your submission directly**
+1. Email your submission (PDF or Google Slides) to **recruitment@prenetics.com**
+2. Subject line: `Beat Claude — [Role Name] — [Your Name]`
+3. Attach your resume and include your LinkedIn
+
+Both paths are reviewed. Apply however you prefer.
 
 Claude's baseline was generated with the exact same brief you received. It has already researched IM8, audited the public data, and built its answer. To beat it, you need to bring something AI can't.
 
