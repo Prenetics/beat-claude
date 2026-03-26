@@ -201,6 +201,9 @@ We want:
 - **Option 2 — Email:** Send to `recruitment@prenetics.com` with subject line:
   `Beat Claude — Customer Experience Manager — [Your Name]`
 
+**Please also include in your email:**
+- A **Loom video** walking us through your thought process and how you approached the challenge
+- Your **current salary** and **expected salary**
 
 ---
 

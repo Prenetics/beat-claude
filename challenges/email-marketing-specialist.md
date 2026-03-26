@@ -174,6 +174,10 @@ Before starting, familiarize yourself with IM8 by reviewing these publicly avail
 - **Option 2 — Email:** Send to `recruitment@prenetics.com` with subject line:
   `Beat Claude — Email Marketing Specialist — [Your Name]`
 
+**Please also include in your email:**
+- A **Loom video** walking us through your thought process and how you approached the challenge
+- Your **current salary** and **expected salary**
+
 ---
 
 ## Final Note

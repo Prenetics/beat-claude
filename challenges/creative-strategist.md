@@ -230,6 +230,10 @@ Before starting, immerse yourself in IM8's creative world and competitive landsc
 - **Option 2 — Email:** Send to `recruitment@prenetics.com` with subject line:
   `Beat Claude — Creative Strategist — [Your Name]`
 
+**Please also include in your email:**
+- A **Loom video** walking us through your thought process and how you approached the challenge
+- Your **current salary** and **expected salary**
+
 ---
 
 ## Final Note
