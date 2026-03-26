@@ -63,6 +63,10 @@ More challenges added as roles open. Star or watch this repo to get notified.
 
 Both paths are reviewed. Apply however you prefer.
 
+**Please also include in your email:**
+- A **Loom video** walking us through your thought process and how you approached the challenge
+- Your **current salary** and **expected salary**
+
 Claude's baseline was generated with the exact same brief you received. It has already researched IM8, audited the public data, and built its answer. To beat it, you need to bring something AI can't.
 
 *Ties don't advance.*
