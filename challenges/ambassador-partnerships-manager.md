@@ -200,24 +200,12 @@ You can and should reference:
 
 ---
 
-## Submission Instructions
+## How to Submit
 
-### Format
-- PDF or Google Doc
-- Maximum 12 pages (excluding appendices)
-- Use headers, tables, visuals, and frameworks for clarity
-- Include your name and the role title on the first page
-
-### How Claude's Baseline Was Generated
-Claude was given this exact brief and produced a response under the same constraints using only publicly available information. Its submission is our benchmark. **Ties don't advance.**
-
-### Deadline
-Submit within **5 calendar days** of receiving this brief.
-
-### Apply Here
-**Apply & upload your submission:** [careers.prenetics.com — Ambassador & Partnerships Manager](https://careers.prenetics.com/jobs/7372457-ambassador-partnerships-manager/applications/new)
-
-Upload your Beat Claude submission using the **file upload field** on the application form.
+- **Format:** PDF or Google Slides (max 4 pages)
+- **Option 1 — Careers Page:** Upload your submission on the [job application form](https://careers.prenetics.com/jobs/7372457-ambassador-partnerships-manager/applications/new)
+- **Option 2 — Email:** Send to `recruitment@prenetics.com` with subject line:
+  `Beat Claude — Ambassador & Partnerships Manager — [Your Name]`
 
 
 ---

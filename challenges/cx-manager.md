@@ -194,24 +194,12 @@ We want:
 
 ---
 
-## Submission Instructions
+## How to Submit
 
-### Format
-- PDF or Google Doc
-- Maximum 8 pages (excluding any appendices)
-- Use headers, tables, and bullet points for clarity
-- Include your name and the role title on the first page
-
-### How Claude's Baseline Was Generated
-Claude was given this exact brief and produced a response under the same constraints. Its submission is our benchmark. **Ties don't advance.**
-
-### Deadline
-Submit within **5 calendar days** of receiving this brief.
-
-### Apply Here
-**Apply & upload your submission:** [careers.prenetics.com — Customer Experience Manager](https://careers.prenetics.com/jobs/7259414-customer-experience-manager/applications/new)
-
-Upload your Beat Claude submission using the **file upload field** on the application form.
+- **Format:** PDF or Google Slides (max 4 pages)
+- **Option 1 — Careers Page:** Upload your submission on the [job application form](https://careers.prenetics.com/jobs/7259414-customer-experience-manager/applications/new)
+- **Option 2 — Email:** Send to `recruitment@prenetics.com` with subject line:
+  `Beat Claude — Customer Experience Manager — [Your Name]`
 
 
 ---

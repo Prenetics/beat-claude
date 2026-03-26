@@ -244,24 +244,12 @@ All publicly available — no internal access needed:
 
 ---
 
-## Submission Instructions
+## How to Submit
 
-### Format
-- **Design document:** PDF or Google Doc (Parts 1, 3, 4)
-- **Code:** GitHub repository (public or private — if private, grant access to hr.ops@prenetics.com) OR zip file
-- Include a README with setup instructions
-- Maximum 10 pages for the design document (excluding architecture diagrams and code)
-
-### How Claude's Baseline Was Generated
-Claude was given this exact brief and produced a response under the same constraints. Its architecture, code, and design decisions are our benchmark. **Ties don't advance.**
-
-### Deadline
-Submit within **7 calendar days** of receiving this brief.
-
-### Apply Here
-**Apply & upload your submission:** [careers.prenetics.com — Full-Stack Engineer](https://careers.prenetics.com/jobs/7100069-principal-senior-full-stack-engineer-backend-infrastructure-ai/applications/new)
-
-Upload your Beat Claude submission using the **file upload field** on the application form.
+- **Format:** PDF or Google Slides (max 4 pages)
+- **Option 1 — Careers Page:** Upload your submission on the [job application form](https://careers.prenetics.com/jobs/7100069-principal-senior-full-stack-engineer-backend-infrastructure-ai/applications/new)
+- **Option 2 — Email:** Send to `recruitment@prenetics.com` with subject line:
+  `Beat Claude — Full-Stack Engineer — [Your Name]`
 
 
 ---

@@ -50,11 +50,13 @@ Build us a detailed 90-day growth plan that covers:
 - Evidence you've done this before (or deeply understand the space)
 - Ideas that make Claude's answer look basic
 
-## Submission
+## How to Submit
 
-1. **Apply & upload your submission here:** [careers.prenetics.com — Growth Manager TikTok Shop](https://careers.prenetics.com/jobs/7372487-growth-manager-tiktok-shop/applications/new)
-2. Upload your Beat Claude submission using the **file upload field** on the application form
-3. Include your resume and LinkedIn
-4. We'll blind-review your answer against Claude's and get back to you within 5 business days
+- **Format:** PDF or Google Slides (max 4 pages)
+- **Option 1 — Careers Page:** Upload your submission on the [job application form](https://careers.prenetics.com/jobs/7372487-growth-manager-tiktok-shop/applications/new)
+- **Option 2 — Email:** Send to `recruitment@prenetics.com` with subject line:
+  `Beat Claude — Growth Manager (TikTok Shop) — [Your Name]`
+
+---
 
 Good luck. Make the AI sweat.

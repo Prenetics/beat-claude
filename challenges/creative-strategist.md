@@ -5,7 +5,6 @@
 **Company:** IM8 Health / Prenetics (NASDAQ: PRE)
 **Role:** Creative Strategist
 **Challenge Format:** Take-Home Assignment
-**Time Limit:** 5 days from receipt
 **Estimated Effort:** 6–8 hours
 
 ---
@@ -224,16 +223,12 @@ Before starting, immerse yourself in IM8's creative world and competitive landsc
 
 ---
 
-## Submission Instructions
+## How to Submit
 
-- **Format:** PDF or Google Slides/Docs (with sharing enabled). Notion links also accepted.
-- **Length:** No strict limit, but quality over quantity. Aim for the equivalent of 10–15 pages.
-- **Deadline:** 5 days from receipt of this brief.
-- **Apply & upload your submission here:** [careers.prenetics.com — Creative Strategist](https://careers.prenetics.com/jobs/7070030-creative-strategist/applications/new)
-- Upload your Beat Claude submission using the **file upload field** on the application form
-- Include your resume and LinkedIn
-- **Subject Line:** Beat Claude — Creative Strategist — [Your Name]
-- **Include:** A brief cover note (2–3 sentences) on your approach and anything you'd want us to know.
+- **Format:** PDF or Google Slides (max 4 pages)
+- **Option 1 — Careers Page:** Upload your submission on the [job application form](https://careers.prenetics.com/jobs/7070030-creative-strategist/applications/new)
+- **Option 2 — Email:** Send to `recruitment@prenetics.com` with subject line:
+  `Beat Claude — Creative Strategist — [Your Name]`
 
 ---
 

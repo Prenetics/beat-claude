@@ -5,7 +5,6 @@
 **Company:** IM8 Health / Prenetics (NASDAQ: PRE)
 **Role:** Video Editor
 **Challenge Format:** Take-Home Assignment
-**Time Limit:** 5 days from receipt
 **Estimated Effort:** 6–8 hours
 
 ---
@@ -199,18 +198,12 @@ Before starting, immerse yourself in IM8's content world:
 
 ---
 
-## Submission Instructions
+## How to Submit
 
-- **Format:**
-  - Written portions: PDF or Google Docs/Slides (with sharing enabled)
-  - Spec edit: MP4 file (9:16 vertical, under 100MB) — upload via Google Drive link, WeTransfer, or similar
-- **Length:** Written portions should be the equivalent of 6–10 pages. Spec edit: 15–45 seconds.
-- **Deadline:** 5 days from receipt of this brief.
-- **Apply & upload your submission here:** [careers.prenetics.com — Video Editor](https://careers.prenetics.com/jobs/7081061-video-editor/applications/new)
-- Upload your Beat Claude submission using the **file upload field** on the application form
-- Include your resume and LinkedIn
-- **Subject Line:** Beat Claude — Video Editor — [Your Name]
-- **Include:** A brief cover note (2–3 sentences) on your approach, tools used, and anything you'd want us to know.
+- **Format:** PDF or Google Slides (max 4 pages)
+- **Option 1 — Careers Page:** Upload your submission on the [job application form](https://careers.prenetics.com/jobs/7081061-video-editor/applications/new)
+- **Option 2 — Email:** Send to `recruitment@prenetics.com` with subject line:
+  `Beat Claude — Video Editor — [Your Name]`
 
 ---
 
