@@ -42,6 +42,8 @@ Each challenge has its own scoring rubric tailored to the role. But across all r
 | [Performance Marketing Specialist](./challenges/performance-marketing-specialist.md) | Performance Marketing Specialist | Hard |
 | [Ambassador & Partnerships Manager](./challenges/ambassador-partnerships-manager.md) | Ambassador & Partnerships Manager | Medium |
 | [Full-Stack Engineer](./challenges/full-stack-engineer.md) | Senior Full-Stack Engineer | Hard |
+| [Head of Social — IM8](./challenges/head-of-social.md) | Head of Social | Hard |
+| [Head of Content — IM8](./challenges/head-of-content.md) | Head of Content | Hard |
 
 More challenges added as roles open. Star or watch this repo to get notified.
 
