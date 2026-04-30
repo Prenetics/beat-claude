@@ -44,6 +44,7 @@ Each challenge has its own scoring rubric tailored to the role. But across all r
 | [Full-Stack Engineer](./challenges/full-stack-engineer.md) | Senior Full-Stack Engineer | Hard |
 | [Head of Social — IM8](./challenges/head-of-social.md) | Head of Social | Hard |
 | [Head of Content — IM8](./challenges/head-of-content.md) | Head of Content | Hard |
+| [CRO Manager — IM8](./challenges/cro-manager.md) | CRO Manager | Hard |
 
 More challenges added as roles open. Star or watch this repo to get notified.
 
