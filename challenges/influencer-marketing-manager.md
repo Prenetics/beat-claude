@@ -4,7 +4,7 @@
 
 **Influencer Marketing Manager — IM8**
 
-Lead IM8'''s influencer and creator strategy — build the affiliate engine, activate world-class athlete assets, and scale creator-driven revenue across TikTok Shop and social platforms.
+Lead IM8's influencer and creator strategy — build the affiliate engine, activate world-class athlete assets, and scale creator-driven revenue across TikTok Shop and social platforms.
 
 ---
 
@@ -16,7 +16,7 @@ Lead IM8'''s influencer and creator strategy — build the affiliate engine, act
 
 ## Scoring Rubric
 
-| Category | Weight | What We'''re Looking For |
+| Category | Weight | What We're Looking For |
 |---|---|---|
 | **Strategic Depth** | /35 | Phased 90-day plan with clear milestones, realistic scaling logic, and understanding of the creator economy landscape |
 | **Specificity** | /25 | Concrete rate cards, commission structures, KPIs with targets, team structure, and a defensible P&L |
@@ -30,7 +30,7 @@ Lead IM8'''s influencer and creator strategy — build the affiliate engine, act
 
 ## Claude Baseline Score: 78/100
 
-Claude'''s baseline response is strong on framework and structure but lacks real-world portfolio evidence, specific creator relationships, and the kind of creative campaign instincts that come from hands-on experience in the influencer space. A great candidate should bring tangible proof points and ideas that go beyond strategic frameworks.
+Claude's baseline response is strong on framework and structure but lacks real-world portfolio evidence, specific creator relationships, and the kind of creative campaign instincts that come from hands-on experience in the influencer space. A great candidate should bring tangible proof points and ideas that go beyond strategic frameworks.
 
 ---
 
