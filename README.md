@@ -38,23 +38,10 @@ Each challenge has its own scoring rubric tailored to the role. But across all r
 | [Head of Social — IM8](./challenges/head-of-social.md) | Head of Social | Hard |
 | [Head of Content — IM8](./challenges/head-of-content.md) | Head of Content | Hard |
 | [Creative Strategist](./challenges/creative-strategist.md) | Creative Strategist | Hard |
+| [Influencer Marketing Manager](./challenges/influencer-marketing-manager.md) | Influencer Marketing Manager | Hard |
 | [Customer Experience Manager](./challenges/cx-manager.md) | CX Manager | Medium |
 
 More challenges added as roles open. Star or watch this repo to get notified.
-
-## Archived Challenges
-
-These roles aren't currently hiring, but the briefs remain available for reference and quick reactivation. Files live in [`/challenges/archive`](./challenges/archive).
-
-| Challenge | Role |
-|---|---|
-| [Ambassador & Partnerships Manager](./challenges/archive/ambassador-partnerships-manager.md) | Ambassador & Partnerships Manager |
-| [Email Marketing Specialist](./challenges/archive/email-marketing-specialist.md) | Email Marketing Specialist |
-| [Growth Manager — TikTok Shop](./challenges/archive/growth-manager-tiktok.md) | Growth Manager (TikTok Shop) |
-| [Performance Marketing Specialist](./challenges/archive/performance-marketing-specialist.md) | Performance Marketing Specialist |
-| [Full-Stack Engineer](./challenges/archive/full-stack-engineer.md) | Senior Full-Stack Engineer |
-| [Video Editor](./challenges/archive/video-editor.md) | Video Editor |
-| [Social Media Manager — US](./challenges/archive/social-media-manager-us.md) | Social Media Manager (US) |
 
 ## About Prenetics
 
