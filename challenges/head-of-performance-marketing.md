@@ -144,13 +144,21 @@ Show us **THREE specific AI workflows** you would deploy in the first 90 days th
 
 ---
 
-## Submission Rules
+## How to Submit
 
-- **Format:** PDF or Google Doc (link with view access). Max 6 pages, ~3,000 words. Charts and tables count toward the page limit but don't count toward the word limit.
-- **Confidentiality:** All figures in this brief are illustrative. Treat them as if real; don't share externally.
+- **Format:** PDF or Google Doc (max 6 pages, ~3,000 words). Charts and tables count toward the page limit but don't count toward the word limit.
+- **Option 1 — Careers Page:** Upload your submission on the [job application form](https://careers.prenetics.com/jobs/7745448-head-of-performance-marketing-im8/applications/new)
+- **Option 2 — Email:** Send to `recruitment@prenetics.com` with subject line:
+  `Beat Claude — Head of Performance Marketing — [Your Name]`
+
+**Please also include in your email:**
+- A **Loom video** walking us through your 30-day plan and the one budget ask
+- Your **current salary** and **expected salary**
+
+**Ground rules:**
 - **Deadline:** 7 calendar days from when you receive this.
+- **Confidentiality:** All figures in this brief are illustrative. Treat them as if real; don't share externally.
 - **No AI ban.** Use whatever tools you'd use on the job. We are scoring your thinking, not your typing. We can tell the difference.
-- **Submit to:** `recruitment@prenetics.com` with subject: `Beat Claude — Head of Performance Marketing — [Your Name]`
 
 A reminder: **ties don't advance. Make a call.**
 
