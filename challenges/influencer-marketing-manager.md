@@ -5,6 +5,16 @@
 
 ---
 
+## About This Challenge
+
+At IM8, we don't just review resumes — we test talent against AI.
+
+This challenge was designed to evaluate your ability to scale a real creator and ambassador programme — spot breakout talent, negotiate deals that actually convert, and integrate AI without losing the relationship judgement that makes great influencer marketing work.
+
+**Claude (Anthropic's AI) has already completed this exact brief.** Its output is our baseline. To advance, you need to beat it. Ties don't advance.
+
+---
+
 ## The Challenge
 
 We gave Claude this exact brief. It produced a solid, structured, technically competent response.
@@ -230,6 +240,16 @@ Give us 3 specific ways you'd use AI in your influencer operation:
 | **Communication** | /10 | Clear structure, executive-ready formatting, and writing that shows leadership presence |
 
 **Claude Baseline Score: 78/100**
+
+---
+
+## Final Note
+
+This challenge mirrors the kind of programme you'd build in your first 90 days at IM8. We designed it this way on purpose — we want to see how you think about creators, how you negotiate, and whether you'd ship work the brand and the athletes can be proud of.
+
+Claude's baseline was generated with the same brief you're reading now. It's good. To advance, yours needs to be better.
+
+**Ties don't advance. Good luck.**
 
 ---
 

@@ -201,6 +201,19 @@ For each system:
 
 ---
 
+## What We're NOT Looking For
+
+- Generic frameworks copy-pasted from agency decks or marketing blogs
+- "Test, learn, iterate" without naming what gets tested, learned, or killed
+- A six-page memo that says less than a four-page memo would
+- "It depends" answers on Part 3 — pick one and defend it
+- AI workflows without proof — links, screenshots, or Looms are required for Part 5A
+- Strategy that ignores the athlete portfolio or treats it as wallpaper
+- Single-market thinking — IM8 is in 31 countries, your plan should reflect that
+- Padding, hedging, or anything that reads like a consultant deliverable
+
+---
+
 ## Submission Reminder
 
 - **Three artifacts:** (1) Cover Note (under 300 words), (2) Strategy Memo (Parts 1–5, max 6 pages), (3) Three real AI workflow examples with proof.

@@ -5,6 +5,16 @@
 
 ---
 
+## About This Challenge
+
+At IM8, we don't just review resumes — we test talent against AI.
+
+This challenge was designed to evaluate your ability to lead a real customer experience function — manage agents through tough days, make hard operational calls, and integrate AI without losing the human judgement that makes premium CX premium.
+
+**Claude (Anthropic's AI) has already completed this exact brief.** Its output is our baseline. To advance, you need to beat it. Ties don't advance.
+
+---
+
 ## The Challenge
 
 We gave Claude this exact brief. It produced a solid, structured, technically competent response.
@@ -204,6 +214,18 @@ We want:
 **Please also include in your email:**
 - A **Loom video** walking us through your thought process and how you approached the challenge
 - Your **current salary** and **expected salary**
+
+**Deadline:** 7 calendar days from when you receive this brief.
+
+---
+
+## Final Note
+
+This challenge mirrors the kind of operational calls you'd make in your first 90 days at IM8. We designed it this way on purpose — we want to see how you lead a team, how you make decisions under pressure, and whether you'd run a CX function the brand and the customers can be proud of.
+
+Claude's baseline was generated with the same brief you're reading now. It's good. To advance, yours needs to be better.
+
+**Ties don't advance. Good luck.**
 
 ---
 
