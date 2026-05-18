@@ -211,6 +211,31 @@ A reminder: **ties don't advance. Make a call.**
 
 ---
 
+## How to Submit
+
+- **Format:** PDF or Google Doc (link with view access). Strategy memo max 6 pages, cover note under 300 words.
+- **Option 1 — Careers Page:** Upload your submission on the [job application form](https://careers.prenetics.com/jobs/7745448-head-of-performance-marketing-im8/applications/new)
+- **Option 2 — Email:** Send to `recruitment@prenetics.com` with subject line:
+  `Beat Claude — Head of Performance Marketing — [Your Name]`
+
+**Please also include in your email:**
+- A **Loom video** (5–10 min) walking us through your strategy memo — particularly your $1M deployment call and your AI-native operating system
+- Your **current salary** and **expected salary**
+
+**Deadline:** 7 calendar days from when you receive this brief.
+
+---
+
+## Final Note
+
+This challenge mirrors the kind of strategic build you'd run in your first 30 days at IM8. We designed it this way on purpose — we want to see how you think, how you make commercial calls, and whether you'd ship work the team and the CEO can be proud of.
+
+Claude's baseline was generated with the same brief you're reading now. It's good. To advance, yours needs to be better.
+
+**Ties don't advance. Good luck.**
+
+---
+
 ## Scoring Weights
 
 | Section | Weight |
