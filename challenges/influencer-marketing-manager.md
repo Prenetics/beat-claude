@@ -209,7 +209,7 @@ Give us 3 specific ways you'd use AI in your influencer operation:
 ## How to Submit
 
 - **Format:** PDF or Google Doc (max 5 pages)
-- **Option 1 — Careers Page:** Upload your submission on the job application form
+- **Option 1 — Careers Page:** Upload your submission on the [job application form](https://careers.prenetics.com/jobs/7671225-influencer-marketing-manager/applications/new)
 - **Option 2 — Email:** Send to `recruitment@prenetics.com` with subject line:
   `Beat Claude — Influencer Marketing Manager — [Your Name]`
 
