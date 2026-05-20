@@ -56,8 +56,6 @@ You've just signed your offer. It's Day 1.
 - **Cross-sell rate to a second SKU within 6 months: 11%**
 - **Reactivation rate (cancelled → re-subscribed within 90 days): 9%**
 
-**You inherit a team of 5:** 2 lifecycle managers (one EU, one US), 1 subscription ops manager, 1 copywriter, 1 retention analyst. **No dedicated AI/automation engineer, no community lead, no loyalty product owner.**
-
 **Stack today:** Shopify, Recharge (subscription), Klaviyo (email + SMS), Attentive (US SMS), Gorgias (CS), Looker (reporting), Segment (CDP). AI tools are present in pockets but **not embedded in the operating model** — generative copy is in Klaviyo, but predictive churn, journey orchestration, and content personalisation are still mostly manual.
 
 **The CEO's mandate for your first 12 months:**
