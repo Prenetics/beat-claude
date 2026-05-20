@@ -34,35 +34,9 @@ If you have spent your career fixing churn in someone else's bucket — wishing 
 
 ## How to Apply
 
-Don't send us a generic CV and cover letter. Send us **three things**:
+Don't send us a generic CV and cover letter. **Answer the 5-part brief below (max 6 pages, ~3,000 words).** It is one document. The cover-note credentials and the AI-workflow proof are built into Parts 1 and 2 — read those carefully before you start writing.
 
-### 1. Cover Note — under 300 words. Required.
-
-Tell us, in your own words:
-
-- The **largest subscription book** you've personally owned (active subscribers and/or ARR).
-- **What you did to NRR or LTV** — the specific move, the magnitude, and the timeframe.
-- **What you would have done differently** with hindsight.
-- Your view on **where IM8 should focus first to move NRR by 5 points** — and why.
-
-This is the gate. We read this first. If it doesn't clear our bar, we won't read the rest.
-
-### 2. Strategy Memo — answer Parts 1–5 below (max 6 pages, ~3,000 words).
-
-This is where you beat Claude.
-
-### 3. Three Real Examples of How You Currently Use AI in Your Retention Workflow.
-
-Not "planned to," not "exploring." How you use AI **today** in your retention work — segmentation, content generation, predictive churn, journey orchestration, sentiment analysis on cancellation reasons, anomaly detection, anything. We want **proof, not promises** — links, screenshots, a Loom walk-through, an output sample, an actual workflow you can show us. These three examples should also inform your answer to Part 2.
-
----
-
-**Submit all three to:** `recruitment@prenetics.com`
-**Subject:** `Beat Claude — Head of Retention — [Your Name]`
-**Or apply via:** [job application form](https://careers.prenetics.com/jobs/head-of-retention-im8/applications/new) *(link will be updated once the role is live on the careers page)*
-**Deadline:** 7 calendar days from when you receive this.
-
-We will read it. If you're the operator we're looking for, we will move fast.
+We read **Part 1 first**. If the operator note at the top doesn't clear our bar, we won't read the rest. If it does, the rest of the memo is where you beat Claude.
 
 ---
 
@@ -95,7 +69,17 @@ Answer the five parts below.
 
 ## Part 1: The NRR Move (30%)
 
-### What to do
+### 1A. Operator Note — under 300 words. This is the gate.
+
+Open Part 1 with a short, credentialing note. We read this first. If it doesn't clear our bar, we won't read the rest.
+
+- The **largest subscription book** you've personally owned (active subscribers and/or ARR).
+- **What you did to NRR or LTV** — the specific move, the magnitude, and the timeframe.
+- **What you would have done differently** with hindsight.
+
+If you can't make the scale case in a sentence, this isn't your role.
+
+### 1B. The 5-Point NRR Move
 
 The CEO wants NRR from **92% → category-defining**. Tell us exactly how you'd take **5 points of NRR** in the next 12 months. Be specific about sequence, owners, and measurement.
 
@@ -117,11 +101,17 @@ The CEO wants NRR from **92% → category-defining**. Tell us exactly how you'd 
 
 ## Part 2: The AI-Native Operating System (20%)
 
-### What to do
+### 2A. Three real examples of how you use AI in retention TODAY
 
-Show us the **specific AI workflows** you'd embed in the IM8 retention function in the first 90 days that materially change either the volume, the cost, or the quality of retention output.
+Not "planned to," not "exploring." How you use AI **today** in your retention work — segmentation, content generation, predictive churn, journey orchestration, sentiment analysis on cancellation reasons, anomaly detection, anything.
 
-### For each workflow
+We want **proof, not promises**. For each of the three examples include a link, screenshot, output sample, or Loom walk-through. If you can't show us the artefact, don't list the example.
+
+### 2B. The IM8 retention OS in your first 90 days
+
+Now, using what you showed us in 2A as the foundation, show us the **specific AI workflows** you'd embed in the IM8 retention function in the first 90 days that materially change the volume, cost, or quality of retention output.
+
+For each workflow:
 
 - **The tool** you'd use (named).
 - **The workflow** it replaces or compounds.
@@ -131,7 +121,7 @@ Show us the **specific AI workflows** you'd embed in the IM8 retention function 
 
 ### What we're NOT looking for
 
-"We'll use ChatGPT to write subject lines" is not an answer. We want operator-grade specificity. At least one workflow should go beyond copy generation — into predictive modelling, journey orchestration, sentiment analysis, or agentic operations. Tie these directly to the three examples from your application.
+"We'll use ChatGPT to write subject lines" is not an answer. We want operator-grade specificity. At least one workflow should go beyond copy generation — into predictive modelling, journey orchestration, sentiment analysis, or agentic operations.
 
 ---
 
