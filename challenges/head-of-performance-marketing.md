@@ -4,9 +4,9 @@
 
 **Company:** IM8 / Prenetics (NASDAQ: PRE)
 **Role:** Head of Performance Marketing — IM8
-**Challenge Format:** Cover Note + Strategy Memo + AI Workflow Examples
+**Challenge Format:** One memo, max 6 pages (~3,000 words), plus a Loom walkthrough
 **Estimated Effort:** 6–8 hours
-**Page Limit:** Strategy memo max 6 pages (~3,000 words). Cover note under 300 words. Write fewer pages, not more.
+**Deadline:** 7 calendar days from receipt
 
 ---
 
@@ -34,34 +34,9 @@ If you have spent your career wishing for better creative assets, bigger budgets
 
 ## How to Apply
 
-Don't send us a generic CV and cover letter. Send us **three things**:
+Don't send us a generic CV and cover letter. **Answer the 5-part brief below as one document, max 6 pages (~3,000 words).** It's one memo — the operator credentials and the AI-workflow proof are built into Parts 1 and 5, so read those carefully before you start writing.
 
-### 1. Cover Note — under 300 words. Required.
-
-Tell us, in your own words:
-
-- The **largest daily spend** you've personally managed.
-- The **channel mix** at that scale.
-- The **CAC trajectory** you drove (before, after, how long it took).
-- **What you would have done differently.**
-
-This is the gate. We read this first. If it doesn't clear our bar, we won't read the rest.
-
-### 2. Strategy Memo — answer Parts 1–5 below (max 6 pages, ~3,000 words).
-
-This is where you beat Claude.
-
-### 3. Three Real Examples of How You Currently Use AI in Your Performance Marketing Workflow.
-
-Not "planned to," not "exploring." How you use AI **today**. We want **proof, not promises** — links, screenshots, a Loom walk-through, an asset library, an actual workflow you can show us. These three examples should also inform your answer to Part 5.
-
----
-
-**Submit all three to:** `recruitment@prenetics.com`
-**Subject:** `Beat Claude — Head of Performance Marketing — [Your Name]`
-**Deadline:** 7 calendar days from when you receive this.
-
-We will read it. If you're the operator we're looking for, we will move fast.
+We read **Part 1 first**. If the operator note at the top doesn't clear our bar, we won't read the rest. If it does, the rest is where you beat Claude.
 
 ---
 
@@ -83,7 +58,18 @@ Answer the five parts below.
 
 ## Part 1: The 30-Day Plan (30%)
 
-### What to do
+### 1A. Operator Note — under 300 words. This is the gate.
+
+Open Part 1 with a short, credentialing note. We read this first. If it doesn't clear our bar, we won't read the rest.
+
+- The **largest daily spend** you've personally managed.
+- The **channel mix** at that scale.
+- The **CAC trajectory** you drove (before, after, how long it took).
+- **What you would have done differently** with hindsight.
+
+If you can't make the scale case in a sentence, this isn't your role.
+
+### 1B. The 30-Day Plan
 
 Sequence your first 30 days to set the stage for hitting the CEO's mandate. We want to see what you'd actually do day-to-day in your first month — not a vague 12-month vision.
 
@@ -214,28 +200,25 @@ For each system:
 
 ---
 
-## Submission Reminder
-
-- **Three artifacts:** (1) Cover Note (under 300 words), (2) Strategy Memo (Parts 1–5, max 6 pages), (3) Three real AI workflow examples with proof.
-- **All figures in this brief are illustrative.** Treat them as if real; don't share externally.
-- **No AI ban.** Use whatever tools you'd use on the job. We are scoring your thinking, not your typing. We can tell the difference.
-
-A reminder: **ties don't advance. Make a call.**
-
----
-
 ## How to Submit
 
-- **Format:** PDF or Google Doc (link with view access). Strategy memo max 6 pages, cover note under 300 words.
+- **Format:** PDF or Google Doc, max 6 pages (~3,000 words). Charts and tables count toward the page limit but don't count toward the word limit.
 - **Option 1 — Careers Page:** Upload your submission on the [job application form](https://careers.prenetics.com/jobs/7745448-head-of-performance-marketing-im8/applications/new)
 - **Option 2 — Email:** Send to `recruitment@prenetics.com` with subject line:
   `Beat Claude — Head of Performance Marketing — [Your Name]`
 
 **Please also include in your email:**
-- A **Loom video** (5–10 min) walking us through your strategy memo — particularly your $1M deployment call and your AI-native operating system
-- Your **current salary** and **expected salary**
 
-**Deadline:** 7 calendar days from when you receive this brief.
+- A **Loom video** (5–10 min) walking us through your $1M deployment call and your AI-native operating system
+- Your **expected salary** in your preferred currency
+
+**Ground rules:**
+
+- **Deadline:** 7 calendar days from when you receive this.
+- **Confidentiality:** All figures in this brief are illustrative. Treat them as if real; don't share externally.
+- **No AI ban.** Use whatever tools you'd use on the job. We are scoring your thinking, not your typing. We can tell the difference.
+
+A reminder: **ties don't advance. Make a call.**
 
 ---
 
@@ -251,13 +234,12 @@ Claude's baseline was generated with the same brief you're reading now. It's goo
 
 ## Scoring Weights
 
-| Section | Weight |
+| Part | Weight |
 |---|---|
-| Cover Note | PASS / FAIL gate |
-| Part 1 — The 30-day plan | 30% |
+| Part 1 — The 30-day plan (incl. operator note gate) | 30% |
 | Part 2 — The $1M deployment | 20% |
 | Part 3 — The hard tradeoffs | 15% |
 | Part 4 — Creative system design | 15% |
 | Part 5 — AI-native operating system (5A current + 5B future) | 20% |
 
-**PASS threshold:** Cover note must clear our bar AND strategy memo score must exceed Claude's baseline. Ties don't advance.
+**PASS threshold:** Operator note (Part 1A) must clear our bar AND strategy memo score must exceed Claude's baseline. Ties don't advance.
