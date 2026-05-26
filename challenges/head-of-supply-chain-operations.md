@@ -50,12 +50,6 @@ You've just signed your offer. It's Day 1.
 - **Returns processing time: 8 days** from receipt → refund issued
 - **Shaker design has changed 4 times in the last 18 months** — every change has rippled into outdated inventory write-offs, mis-shipped components, and customer confusion
 
-**You inherit a team of 4 in the US** — 1 Operations Coordinator (East), 1 Operations Coordinator (West), 1 QC Specialist, 1 Supply Planner — plus partner relationships with the 3PLs and manufacturers. **No dedicated automation/AI engineer, no dedicated returns specialist.**
-
-**The COO's mandate for your first 12 months:**
-
-> *"Get our US fulfillment accuracy to 99.5%+ and our defect rate below 0.5% without sacrificing throughput or blowing up unit economics. Build the SOP backbone so we can scale to 2x volume without 2x people. Make this an AI-native operations function — every workflow that can be measured, automated, and audited should be. We treat operations as a brand asset. Act like it."*
-
 Answer the five parts below.
 
 ---
@@ -183,7 +177,7 @@ Pick **ONE** of these four decisions. Tell us exactly what you'd do, why, and wh
 
 **Format:** PDF or Google Doc, max 10 pages for the main playbook, plus up to 3 pages of appendix for SOPs / dashboards / AI artefacts. Tables and process maps count toward the page limit but don't count toward the word limit.
 
-**Option 1 — Careers Page:** Upload your submission on the careers page job application form *(link will be updated once the role is live)*
+**Option 1 — Careers Page:** Upload your submission on the [job application form](https://careers.prenetics.com/jobs/7086766-head-of-supply-chain-operations-usa/applications/new)
 
 **Option 2 — Email:** Send to `recruitment@prenetics.com` with subject line:
 `Beat Claude — Head of Supply Chain & Operations US — [Your Name]`

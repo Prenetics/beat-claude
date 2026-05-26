@@ -186,7 +186,7 @@ Pick **ONE** of these four decisions. Tell us exactly what you'd do, why, and wh
 
 **Format:** PDF or Google Doc, max 6 pages (~3,000 words) for the memo, plus up to 2 pages of appendix for Part 2A artefacts. Charts and tables count toward the page limit but don't count toward the word limit.
 
-**Option 1 — Careers Page:** Upload your submission on the [job application form](https://careers.prenetics.com/jobs/head-of-retention-im8/applications/new) *(link will be updated once the role is live)*
+**Option 1 — Careers Page:** Upload your submission on the [job application form](https://careers.prenetics.com/jobs/7762123-head-of-retention-im8/applications/new)
 
 **Option 2 — Email:** Send to `recruitment@prenetics.com` with subject line: `Beat Claude — Head of Retention — [Your Name]`
 
