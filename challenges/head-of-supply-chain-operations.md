@@ -37,13 +37,13 @@ You've just signed your offer. It's Day 1.
 **IM8 US operations today:**
 
 - **~150,000 outbound shipments / month** from 2 US 3PLs (East + West coast)
-- **~12 active SKUs** across the catalogue; **4–7 component kits** average per order (Daily Ultimate Essentials Stack, Beckham Stack, individual Add-Ons, replacement shakers, welcome kits)
-- **3 manufacturing partners** producing finished goods + components across the US and Asia
+- **~52 active SKUs** across the catalogue; **~9 component kits** average per order (Daily Ultimate Essentials Stack, Beckham Stack, Longevity, OTP, Monthly, Quarterly)
+- **5 manufacturing partners** producing finished goods + components across the US and Asia
 - **Microsoft Dynamics 365** as the ERP / inventory backbone
 
 **Current operational signals:**
 
-- **Order accuracy: ~97.5%** — leadership wants this at 99.5%+
+- **Order accuracy: ~98%** — leadership wants this at 100%
 - **Defect rate (returned for quality): ~1.8%** of outbound — target <0.5%
 - **Customer Success ticket rate: ~4.2%** of orders (mostly shipping accuracy + product condition complaints)
 - **Average kitting cycle time: 36 hours** from order received → label printed
