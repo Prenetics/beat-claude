@@ -36,7 +36,7 @@ You've just signed your offer. It's Day 1.
 
 **IM8 US operations today:**
 
-- **~150,000 outbound shipments / month** from 2 US 3PLs (East + West coast)
+- **~80,000 outbound shipments / month** from 2 US 3PLs (East + West coast)
 - **~52 active SKUs** across the catalogue; **~9 component kits** average per order (Daily Ultimate Essentials Stack, Beckham Stack, Longevity, OTP, Monthly, Quarterly)
 - **5 manufacturing partners** producing finished goods + components across the US and Asia
 - **Microsoft Dynamics 365** as the ERP / inventory backbone
