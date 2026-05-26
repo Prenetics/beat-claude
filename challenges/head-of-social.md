@@ -146,7 +146,7 @@ We're not looking for a list of AI tools you've heard of. We want to see AI is g
 
 ---
 
-## What We're Evaluating
+## What We're Looking For
 
 | Criteria | Weight |
 |----------|--------|

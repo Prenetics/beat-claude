@@ -198,7 +198,7 @@ Give us 3 specific ways you'd use AI in your influencer operation:
 
 ---
 
-## What We're Evaluating
+## What We're Looking For
 
 - **Operator mindset** — Can you actually build and run this, or do you just strategise about it?
 - **Commercial brain** — Do you think in CAC, LTV, ROAS, and contribution margin? Or do you pitch reach decks?

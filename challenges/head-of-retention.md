@@ -182,6 +182,15 @@ Pick **ONE** of these four decisions. Tell us exactly what you'd do, why, and wh
 - **Specificity over surface area.** A 4-page memo with sharp answers beats a 6-page memo with hedges.
 - **Builder energy.** This is a build job, not an inherit job. Show us how you operate when there is no playbook.
 
+## What We're NOT Looking For
+
+- Generic SaaS-retention playbooks copy-pasted from a Reforge syllabus
+- AI workflows you've "explored" but never deployed — Part 2A is a proof, not a hypothesis
+- Vendor name-dropping in Part 2C without a defended commercial choice ("we'd add Klaviyo + Postscript + Bluecore + LoyaltyLion + Black Crow + Yotpo" is a list, not a stack)
+- Strategy decks with no cohort math
+- Hedged tradeoffs in Part 5 — "it depends" without saying what it depends on will be scored down
+- Anything that could apply to any DTC subscription brand — we want to see you understand IM8's athlete-anchored, 43-country, premium positioning
+
 ## How to Submit
 
 **Format:** PDF or Google Doc, max 6 pages (~3,000 words) for the memo, plus up to 2 pages of appendix for Part 2A artefacts. Charts and tables count toward the page limit but don't count toward the word limit.
@@ -202,6 +211,22 @@ Pick **ONE** of these four decisions. Tell us exactly what you'd do, why, and wh
 - **No AI ban.** Use whatever tools you'd use on the job. We are scoring your thinking, not your typing.
 
 A reminder: ties to Claude don't advance. Make a call.
+
+---
+
+## Final Note
+
+This challenge mirrors the diagnose-and-build sprint you'd run in your first 90 days at IM8. We designed it this way intentionally — we want to see how you think in cohorts, how you sequence retention bets, and whether your AI stack would actually survive contact with our 43-market subscriber base.
+
+Claude's baseline was generated with the same brief you're reading now. It's good. To advance, yours needs to be better.
+
+**Ties don't advance. Good luck.**
+
+---
+
+*IM8 Health is a brand of Prenetics (NASDAQ: PRE). Learn more at [im8health.com](https://im8health.com).*
+
+---
 
 ## Scoring Weights
 

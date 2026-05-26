@@ -186,7 +186,7 @@ We want:
 
 ---
 
-## What We're Evaluating
+## What We're Looking For
 
 - **Operational depth** — Can you actually run a CX team, or do you just talk about it?
 - **Premium brand instinct** — Do you understand what "premium service" means for a wellness brand backed by David Beckham?

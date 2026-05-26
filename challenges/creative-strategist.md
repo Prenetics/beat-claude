@@ -190,7 +190,7 @@ Before starting, immerse yourself in IM8's creative world and competitive landsc
 
 ---
 
-## What We're Evaluating
+## What We're Looking For
 
 | Criteria | Weight |
 |----------|--------|
