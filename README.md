@@ -40,6 +40,8 @@ Each challenge has its own scoring rubric tailored to the role. But across all r
 | [Creative Strategist](./challenges/creative-strategist.md) | Creative Strategist | Hard |
 | [Influencer Marketing Manager](./challenges/influencer-marketing-manager.md) | Influencer Marketing Manager | Hard |
 | [Customer Experience Manager](./challenges/cx-manager.md) | CX Manager | Medium |
+| [Head of Retention — IM8](./challenges/head-of-retention.md) | Head of Retention | Hard |
+| [Head of Supply Chain & Operations — IM8 (US)](./challenges/head-of-supply-chain-operations.md) | Head of Supply Chain & Operations (US) | Hard |
 
 More challenges added as roles open. Star or watch this repo to get notified.
 
