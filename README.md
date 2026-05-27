@@ -36,7 +36,6 @@ Each challenge has its own scoring rubric tailored to the role. But across all r
 |---|---|---|
 | [Head of Performance Marketing — IM8](./challenges/head-of-performance-marketing.md) | Head of Performance Marketing | Hard |
 | [Head of Social — IM8](./challenges/head-of-social.md) | Head of Social | Hard |
-| [Head of Content — IM8](./challenges/head-of-content.md) | Head of Content | Hard |
 | [Creative Strategist](./challenges/creative-strategist.md) | Creative Strategist | Hard |
 | [Influencer Marketing Manager](./challenges/influencer-marketing-manager.md) | Influencer Marketing Manager | Hard |
 | [Customer Experience Manager](./challenges/cx-manager.md) | CX Manager | Medium |
