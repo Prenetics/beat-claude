@@ -1,9 +1,9 @@
 # Beat Claude Challenge Brief
 
-## Head of Social — IM8
+## Social Media Manager — IM8
 
 **Company:** IM8 / Prenetics (NASDAQ: PRE)
-**Role:** Head of Social — IM8
+**Role:** Social Media Manager — IM8
 **Challenge Format:** Take-Home Assignment
 **Estimated Effort:** 8–10 hours
 
@@ -31,7 +31,7 @@ IM8 sells primarily through **im8health.com** on a subscription model. Our brand
 
 ## The Challenge
 
-You are the newly hired Head of Social at IM8. Your first 30 days are an audit-and-build sprint: understand the existing social footprint, benchmark against the best in wellness and lifestyle, and lay out the social strategy and content engine you'll execute against in your first 90 days.
+You are the newly hired Social Media Manager at IM8. Your first 30 days are an audit-and-build sprint: understand the existing social footprint, benchmark against the best in wellness and lifestyle, and lay out the social strategy and content engine you'll execute against in your first 90 days.
 
 **Everything you need is publicly available.** Visit IM8's channels. Follow them. Watch ten of their TikToks. Read the comments. Then design something better.
 
@@ -183,7 +183,7 @@ We're not looking for a list of AI tools you've heard of. We want to see AI is g
 - **Format:** PDF or Google Slides (max 10 pages)
 - **Option 1 — Careers Page:** Upload your submission on the [job application form](https://careers.prenetics.com/jobs/7639239-head-of-social-im8/applications/new)
 - **Option 2 — Email:** Send to `recruitment@prenetics.com` with subject line:
-  `Beat Claude — Head of Social — [Your Name]`
+  `Beat Claude — Social Media Manager — [Your Name]`
 
 **Please also include in your email:**
 - A **Loom video** walking us through your thinking and creative choices

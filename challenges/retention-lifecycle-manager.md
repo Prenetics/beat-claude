@@ -1,9 +1,9 @@
 # Beat Claude Challenge Brief
 
-## Head of Retention — IM8
+## Retention & Lifecycle Manager — IM8
 
 **Company:** IM8 / Prenetics (NASDAQ: PRE)
-**Role:** Head of Retention — IM8
+**Role:** Retention & Lifecycle Manager — IM8
 **Challenge Format:** One memo, max 6 pages (~3,000 words), plus a Loom walkthrough
 **Estimated Effort:** 10–14 hours
 **Deadline:** 7 calendar days from receipt
@@ -197,7 +197,7 @@ Pick **ONE** of these four decisions. Tell us exactly what you'd do, why, and wh
 
 **Option 1 — Careers Page:** Upload your submission on the [job application form](https://careers.prenetics.com/jobs/7762123-head-of-retention-im8/applications/new)
 
-**Option 2 — Email:** Send to `recruitment@prenetics.com` with subject line: `Beat Claude — Head of Retention — [Your Name]`
+**Option 2 — Email:** Send to `recruitment@prenetics.com` with subject line: `Beat Claude — Retention & Lifecycle Manager — [Your Name]`
 
 **Please also include in your email:**
 
