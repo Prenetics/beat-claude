@@ -14,9 +14,11 @@
 
 At IM8, we don't review resumes. We test talent against AI.
 
-This challenge replaces the standard CV-and-cover-letter application. It is designed to evaluate your ability to diagnose operational risk, design SOPs that hold under scale, embed AI inside real logistics workflows, and make hard commercial calls under constraint — the daily work of running fulfillment for a premium DTC subscription business across multiple regions.
+This challenge replaces the standard CV-and-cover-letter application. It evaluates whether you can diagnose operational risk, design SOPs that hold under scale, embed AI inside real logistics workflows, and make hard commercial calls under constraint — the daily work of running fulfillment for a premium DTC subscription business across multiple regions.
 
-**Claude (Anthropic's AI) has already completed this exact brief**, given the same prompt and the same 7-day window, with access to the same publicly-available tools any candidate would use. Its output is our baseline. To advance, you need to beat it. Ties don't advance.
+**We are not scoring coverage. We are scoring judgment.** A thorough answer that touches every topic but says nothing non-obvious will not pass. We want to see what *you* would prioritise, what you'd ignore, where you'd push back on the brief itself, and what you'd catch that a competent generalist (or an AI) would miss.
+
+**Claude (Anthropic's AI) has already completed this exact brief**, given the same prompt, the same 7-day window, and the same publicly-available tools any candidate would use. Its output is a strong, complete, well-structured baseline — and it is deliberately set high. To advance, you have to clearly beat it. **Ties don't advance.**
 
 ---
 
@@ -41,71 +43,43 @@ You've just signed your offer. It's Day 1.
 - **5 manufacturing partners** producing finished goods + components across the US and Asia
 - **Microsoft Dynamics 365** as the ERP / inventory backbone
 
-**Current operational signals:**
+**Current operational signals (read these critically — not every number means what it appears to):**
 
-- **Order accuracy: ~98%** — leadership wants this at 100%
-- **Defect rate (returned for quality): ~1.8%** of outbound — target <0.5%
-- **Customer Success ticket rate: ~4.2%** of orders (mostly shipping accuracy + product condition complaints)
-- **Average kitting cycle time: 36 hours** from order received → label printed
-- **Returns processing time: 8 days** from receipt → refund issued
-- **Shaker design has changed 4 times in the last 18 months** — every change has rippled into outdated inventory write-offs, mis-shipped components, and customer confusion
+- **East-coast 3PL self-reports ~99.1% order accuracy.** This is *the 3PL's own number*, measured their way.
+- **Customer Success ticket rate: ~4.2%** of orders (mostly shipping accuracy + product condition complaints).
+- **Defect rate (returned for quality): ~1.8%** of outbound — target <0.5%.
+- **Order accuracy (blended): ~98%** — leadership wants this at 100%.
+- **Average kitting cycle time: 36 hours** from order received → label printed.
+- **Returns processing time: 8 days** from receipt → refund issued.
+- **Shaker design has changed 4 times in the last 18 months** — every change has rippled into outdated inventory write-offs, mis-shipped components, and customer confusion.
 
-Answer the five parts below.
+We have deliberately *not* told you which of these numbers to trust, which to fix first, or what's missing. Part of what we're testing is whether you can tell.
 
----
-
-## Part 1: The 90-Day Operational Playbook (35%)
-
-### What to do
-
-Sequence your first 90 days into a real operational playbook — not a vision deck. Tell us what you do **week-by-week**, what you ship, what you measure, and what you deliberately don't touch yet.
-
-### Your plan must cover
-
-- **Days 1–14: Diagnosis.** Who you meet, what you audit (3PL processes, manufacturing specs, QC protocols, ERP data hygiene, returns flow), and what 3 decisions you make by day 14. Show the specific questions you ask each stakeholder.
-- **Days 15–45: Stabilise.** What you fix first to take the worst leakage out of the system. Sequence: do you go after order accuracy, defect rate, or returns first? Defend with the math.
-- **Days 46–90: Build.** What new SOPs, dashboards, or systems you put in place so the gains compound. What does the team look different doing by day 90?
-- **The dashboard you take to the COO at day 90.** Specific metrics, current state vs target, what's red/amber/green.
-- **What you deliberately do NOT do in 90 days.** Sequencing maturity matters.
-
-### IM8-specific angles to consider
-
-- **Shaker redesigns 4 times in 18 months.** How do you stop bleeding inventory and customer confusion every time product makes a change? What governance gate would you put between Product and Ops?
-- **2 US 3PLs (East/West).** Do you keep both, or consolidate? Defend with shipping cost, transit-time, and risk math.
-- **Multi-SKU kitting** is the highest-error workflow in DTC supplements. Where in the line do errors actually originate, and what's the fix that works for 4–7-component kits?
+Answer the five parts below. Weightings are shown — **spend your effort where the points are.**
 
 ---
 
-## Part 2: The 3PL & SOP Architecture (25%)
+## Part 1: The 90-Day Operational Playbook (30%)
 
-### What to do
+Give us the first 90 days as a real operating sequence — diagnose, stabilise, build — not a vision deck. We're not handing you a checklist of what to include; **you decide what matters and defend the sequence.** Tell us what you'd ship week-by-week, what you'd measure, what you'd deliberately leave untouched, and the dashboard you'd put in front of the COO on day 90.
 
-Pick **ONE of the two US 3PLs** as your test bed. Design the **end-to-end SOP architecture** you would deploy in your first 60 days — covering inbound, kitting, outbound, and returns. Show us how you'd hold a 3PL to a standard that doesn't drift over time.
-
-### Your answer must cover
-
-- **The SOP map.** What SOPs exist? At minimum: Inbound Receiving & QC, Kitting Workflow, Outbound Pick-Pack-Ship, Returns Processing, Exception Handling, Quality Escalation. Show the structure — you don't need to write the SOP, but show its sections, owners, KPIs, and audit cadence.
-- **The training & onboarding playbook.** How you train new 3PL staff to IM8 standards. What materials they get on day 1. How you verify they actually absorbed it.
-- **The audit and accountability rhythm.** Daily, weekly, monthly audits — what's measured, what's escalated, what happens if a 3PL misses SLA two weeks in a row.
-- **The SLA framework.** Pick 5 SLAs you'd hold the 3PL to. For each: definition, target, measurement method, penalty for miss.
-- **The governance gate for product changes** (e.g., the next shaker redesign) — what process every Product → Ops change must pass through before it hits the floor.
+The strongest answers will make a clear, math-backed call on *what to fix first and why*, and will say out loud what they're choosing **not** to do — and why that restraint is correct.
 
 ---
 
-## Part 3: Quality Control Protocol Design (20%)
+## Part 2: The 3PL & SOP Architecture (15%)
 
-### What to do
+Design the SOP and accountability system you'd deploy across our 3PL operation in your first 60 days. You decide the rollout approach (single test-bed, dual-site, or otherwise) and defend it.
 
-Design IM8's **inbound + outbound QC protocol** from scratch. Assume you're rebuilding it, not patching what exists.
+We care less about an exhaustive SOP list and more about: how you stop a 3PL's standards from drifting once you look away, how you hold them accountable with teeth (not "do better"), and the governance gate every Product → Ops change must clear before it touches the floor. Show the thinking, not a template.
 
-### Your answer must cover
+---
 
-- **Inbound QC.** What you check on every incoming component / finished good from manufacturers. AQL sampling levels by SKU class. What gets a 100% inspection vs sample. What fails go through.
-- **In-line / kitting QC.** Catch points inside the kitting workflow — what's the failure mode and what's the gate that catches it before the kit ships?
-- **Outbound QC.** Last-line checks before the order ships. Address validation, kit completeness, packaging integrity.
-- **Defect taxonomy.** A clean, audit-friendly classification of defect types so root-cause analysis is possible (e.g., supplier defect vs kitting error vs shipping damage vs labelling error).
-- **Root-cause workflow.** When a defect hits, who owns the RCA, what artefacts get produced, what timeline, what closes the loop.
-- **The dashboard.** What QC metrics live on the weekly leadership dashboard, and what threshold triggers an escalation.
+## Part 3: Quality Control Protocol Design (15%)
+
+Rebuild IM8's QC protocol — inbound, in-line/kitting, and outbound — from scratch, plus the defect taxonomy and root-cause workflow that make failures traceable and chargeable to the right party.
+
+Don't just enumerate checks. Tell us **where defects actually originate in a 9-component subscription kit at our volume**, which check earns its cost and which is theatre, and what single QC signal you'd watch above all others.
 
 ---
 
@@ -113,63 +87,62 @@ Design IM8's **inbound + outbound QC protocol** from scratch. Assume you're rebu
 
 ### 4A. Three real examples of how you use AI in operations TODAY
 
-Not "planned to," not "exploring." How you use AI **today** — anomaly detection, demand forecasting, SOP drafting, RCA assistance, dashboard generation, exception triage, anything.
+Not "planned to," not "exploring." How you use AI **today** — anomaly detection, demand forecasting, SOP drafting, RCA assistance, exception triage, anything.
 
-We want **proof, not promises**. For each of the three examples include a link, screenshot, output sample, or short Loom walk-through.
+**Proof gate (scored):** We want proof, not promises. At least **one** of your three examples must include a real artefact — a link, screenshot, or output sample. You may redact employer-confidential data, but a redacted artefact still has to be shown. *"I'll demonstrate it live in the interview" does not satisfy this.* Part 4 is capped at half marks for any submission whose AI use is entirely described rather than evidenced.
 
 ### 4B. The IM8 ops AI stack you'd deploy in your first 90 days
 
-Using what you showed us in 4A as the foundation, show us the **specific AI workflows** you'd embed in IM8 operations in the first 90 days that materially change the volume, cost, or quality of operational output.
+Show the specific AI workflows you'd embed in IM8 ops in your first 90 days that materially change the volume, cost, or quality of output. For each: the named tool, the workflow it replaces or compounds, the operational metric it moves (and by how much), how you'd measure it, and what could go wrong.
 
-For each workflow:
-
-- **The tool** you'd use (named)
-- **The workflow** it replaces or compounds
-- **The operational metric** it moves — and by how much
-- **How you'd measure** whether it's actually working
-- **What could go wrong** (alert fatigue, false positives, data drift, etc.)
-
-At minimum, take a position on: predictive defect detection, automated SOP-deviation alerts, demand forecasting, and AI-assisted RCA.
-
-**What we're NOT looking for:** "We'll use ChatGPT to summarise our 3PL reports." We want operator-grade specificity — at least one workflow should go beyond text summarisation into predictive modelling, anomaly detection, or agentic operational response.
+**What we're NOT looking for:** "We'll use ChatGPT to summarise our 3PL reports." At least one workflow must go beyond summarisation into predictive modelling, anomaly detection, or **agentic** operational response.
 
 ---
 
-## Part 5: The Hard Tradeoff (5%)
+## Part 5: Judgment Under Pressure (25%)
 
-Pick **ONE** of these four decisions. Tell us exactly what you'd do, why, and what evidence would change your mind.
+This is the section that decides it. Two parts:
 
-**(a)** A new shaker redesign lands in 60 days. You have 80,000 units of the old design in 3PL inventory. Do you write them off and ship the new design clean, or do you bleed through the old inventory first and confuse customers for 4 months?
+### 5A. Pick TWO of the following decisions
 
-**(b)** Your East-coast 3PL is hitting 99.1% accuracy at $4.20/order. A new entrant pitches you 99.7% accuracy at $5.10/order with a 6-month migration window and a known 2-week stabilisation dip. Do you switch?
+For each, give us the call, the reasoning, and — critically — **the specific evidence that would change your mind.** A decision without a falsifiable kill-condition is a guess.
 
-**(c)** Microsoft D365 is technically capable but our implementation is half-broken. Rip-and-replace with a fit-for-purpose subscription-ops stack (Recharge + Stord + Loop) is 6 months and a $400K project. Fix-in-place is 12 months of incremental improvement. Which do you commit to?
+**(a)** A new shaker redesign lands in 60 days. You have 80,000 units of the old design in 3PL inventory. Write them off and ship the new design clean, or bleed through the old inventory and risk 4 months of customer confusion?
 
-**(d)** Your QC Specialist has caught 3 defects in the last week that the 3PL's own QC missed. Do you keep the 100% in-line check (costs you 4 hours/day of labour) or trust the 3PL with monthly audits (saves the labour, costs you the customer-facing defects when the 3PL drifts)?
+**(b)** A new 3PL pitches 99.7% accuracy at $5.10/order vs your incumbent's reported 99.1% at $4.20/order, with a 6-month migration and a 2-week stabilisation dip. Do you switch?
 
-**What we're looking for:** A decision, not a hedge. The falsifiable evidence that would change your mind. Commercial judgement.
+**(c)** Microsoft D365 is technically capable but our implementation is half-broken. Rip-and-replace with a fit-for-purpose subscription-ops stack (6 months, $400K) or fix-in-place (12 months of incremental improvement)? Commit.
+
+**(d)** Your QC Specialist caught 3 defects last week that the 3PL's own QC missed. Keep the 100% in-line check (4 hours/day of labour) or trust the 3PL with monthly audits (saves labour, costs you customer-facing defects when they drift)?
+
+**(e)** *(The hard one.)* Your monthly 3PL scorecard shows 99.3% accuracy. A surprise spot-audit of 200 live orders finds 7 errors — that's 96.5%. The 3PL insists your sample is unrepresentative and points to their scorecard. Peak season starts in 3 weeks. What do you do this week, and how do you resolve the truth of the number before peak?
+
+### 5B. Beat the baseline directly
+
+Claude's baseline answer to this challenge is strong but has blind spots. **Name one place a competent, AI-generated operational answer to this exact brief is likely to be wrong, generic, or naive — and show us how your thinking is better.** (Examples of where AI answers tend to break: generic SLA penalty structures with no real contract leverage, detection-only AI with nothing prescriptive, hand-waved write-off math, trusting a self-reported metric.) Be specific.
 
 ---
 
 ## What We're Looking For
 
-- **Cohort fluency in operations.** You think in failure modes, not playbooks. You can read the numbers above and tell us where the leakage actually sits before we tell you.
-- **Commercial rigour.** Real numbers, real math, real tradeoffs. If you cite a benchmark, cite the source.
-- **SOP discipline.** You believe SOPs are how scale survives ambiguity — not paperwork.
-- **AI in the bones.** Show us what you'd build, with what tool, on what timeline, measured how.
-- **Specificity over surface area.** A 5-page playbook with sharp answers beats a 15-page deck with hedges.
-- **Builder mindset.** This is a build job, not an inherit job. Show us how you operate when there is no playbook.
+- **Judgment over coverage.** You tell us what matters and what to ignore. You don't just answer every prompt — you prioritise, and you defend the prioritisation.
+- **You interrogate the numbers.** You don't take a self-reported 3PL metric at face value. You can read the signals above and tell us where the leakage *actually* sits.
+- **Commercial rigour.** Real numbers, real math, real tradeoffs with explicit dollar impact. Cite sources for benchmarks.
+- **SOP discipline with teeth.** SOPs are how scale survives ambiguity — and accountability without consequence is decoration.
+- **AI in the bones, with proof.** What you'd build, with what tool, on what timeline, measured how — backed by evidence you actually do this.
+- **A point of view.** You're willing to push back on the brief, name what's missing, and make a call others would hedge.
 
 ---
 
 ## What We're NOT Looking For
 
-- Generic Lean Six Sigma playbooks copy-pasted from a textbook
-- A 30-page "ops audit framework" without specific IM8 application
-- A list of AI tools you've heard of without demonstrated usage (prompts, outputs, dashboards)
-- "Best practices" without explanation of why they apply to IM8's specific context
-- Work that could apply to any DTC brand — we want to see you understand multi-SKU subscription kitting at scale
-- Strategy decks with no SOP-shaped output
+- **A complete-but-generic answer.** Touching all five parts thoroughly is the floor, not a pass. Coverage is not insight.
+- AI examples that are *described but not evidenced* — see the Part 4 proof gate.
+- Generic Lean Six Sigma playbooks copy-pasted from a textbook.
+- A 30-page "ops audit framework" without specific IM8 application.
+- "Best practices" without explanation of why they apply to IM8's specific context.
+- Work that could apply to any DTC brand — we want multi-SKU subscription kitting at scale.
+- Hedges. Pick TWO tradeoffs in Part 5 and make two clear calls.
 
 ---
 
@@ -184,7 +157,7 @@ Pick **ONE** of these four decisions. Tell us exactly what you'd do, why, and wh
 
 **Please also include in your email:**
 
-- A **Loom video** (≤10 minutes) walking us through your 90-day playbook and your QC protocol
+- A **Loom video** (≤10 minutes) walking us through your 90-day playbook and your Part 5 decisions
 - Your **expected salary** in USD
 
 **Ground rules:**
@@ -193,15 +166,15 @@ Pick **ONE** of these four decisions. Tell us exactly what you'd do, why, and wh
 - **Confidentiality:** Q1 2026 revenue, FY26 guidance, country count, and athlete partners are public disclosures. All operational numbers (shipment volume, accuracy, defect rate, ticket rate, team size, SKU counts) are illustrative. Treat the illustrative figures as if real; don't share externally.
 - **No AI ban.** Use whatever tools you'd use on the job. We are scoring your thinking, not your typing.
 
-A reminder: **ties don't advance. Make a call.**
+A reminder: **ties don't advance. Make the calls.**
 
 ---
 
 ## Final Note
 
-This challenge mirrors the diagnose-stabilise-build sprint you'd run in your first 90 days at IM8. We designed it this way intentionally — we want to see how you think under operational pressure, how you sequence work, and whether your SOPs would survive contact with a real 3PL floor.
+This challenge mirrors the diagnose-stabilise-build sprint you'd run in your first 90 days at IM8, and the judgment calls you'd make under real pressure. We want to see how you think when the brief is ambiguous, the numbers don't fully add up, and there's no playbook handed to you.
 
-Claude's baseline was generated with the same brief you're reading now. It's good. To advance, yours needs to be better.
+Claude's baseline was generated with the same brief you're reading now. It's strong, and we set the bar high on purpose. To advance, yours needs to be clearly better.
 
 **Ties don't advance. Good luck.**
 
