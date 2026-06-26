@@ -42,6 +42,7 @@ Each challenge has its own scoring rubric tailored to the role. But across all r
 | [Retention & Lifecycle Manager — IM8](./challenges/retention-lifecycle-manager.md) | Retention & Lifecycle Manager | Medium |
 | [Head of Supply Chain & Operations — IM8 (US)](./challenges/head-of-supply-chain-operations.md) | Head of Supply Chain & Operations (US) | Hard |
 | [Junior Media Buyer — IM8](./challenges/junior-media-buyer.md) | Junior Media Buyer (Paid Social) | Medium |
+| [CRO Manager — IM8](./challenges/cro-manager.md) | CRO Manager | Hard |
 
 More challenges added as roles open. Star or watch this repo to get notified.
 
