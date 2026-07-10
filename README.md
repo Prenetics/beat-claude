@@ -38,7 +38,7 @@ Each challenge has its own scoring rubric tailored to the role. But across all r
 | [Social Media Manager — IM8](./challenges/social-media-manager.md) | Social Media Manager | Medium |
 | [Creative Strategist](./challenges/creative-strategist.md) | Creative Strategist | Hard |
 | [Influencer Marketing Manager](./challenges/influencer-marketing-manager.md) | Influencer Marketing Manager | Hard |
-| [Customer Experience Manager](./challenges/cx-manager.md) | CX Manager | Medium |
+| [Customer Experience Manager](./challenges/cx-manager.md) | CX Manager | Hard |
 | [Retention & Lifecycle Manager — IM8](./challenges/retention-lifecycle-manager.md) | Retention & Lifecycle Manager | Medium |
 | [Head of Supply Chain & Operations — IM8 (US)](./challenges/head-of-supply-chain-operations.md) | Head of Supply Chain & Operations (US) | Hard |
 | [Junior Media Buyer — IM8](./challenges/junior-media-buyer.md) | Junior Media Buyer (Paid Social) | Medium |
