@@ -1,5 +1,7 @@
 # Challenge: Social Media & Community Manager — US
 
+> ⚠️ **THE FIGURES IN THIS CHALLENGE ARE FICTIONAL — NOT REAL COMPANY DATA.** The follower, engagement, and cadence numbers below are **invented for this exercise** and do **NOT** represent IM8's actual social metrics. Only publicly disclosed brand facts are genuine.
+
 **Role:** Social Media & Community Manager (US)
 **Brand:** IM8
 **Difficulty:** Hard
@@ -12,9 +14,9 @@
 
 IM8 is a premium performance nutrition brand co-founded by David Beckham, built on science from Mayo Clinic and NASA researchers. We sell direct-to-consumer in the US and are scaling fast.
 
-Our current social presence:
-- Instagram: ~85K followers, posting 4x/week, engagement rate ~1.2%
-- TikTok: ~30K followers, posting 3x/week, mostly repurposed Instagram content
+Our current social presence *(all figures illustrative)*:
+- Instagram: ~90K followers, posting 4x/week, engagement rate ~1.5%
+- TikTok: ~35K followers, posting 3x/week, mostly repurposed Instagram content
 - No active community programme or ambassador network in the US
 - No presence at US fitness, wellness, or lifestyle events
 - Content is produced primarily by our HK creative team — timezone and cultural gaps are real

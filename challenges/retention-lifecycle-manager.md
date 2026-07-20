@@ -1,5 +1,8 @@
 # Beat Claude Challenge Brief
 
+> ⚠️ **THE OPERATIONAL FIGURES IN THIS CHALLENGE ARE FICTIONAL — NOT REAL COMPANY DATA.**
+> All cohort- and operations-level numbers below (subscribers, MRR/ARR run-rate, churn, CAC, ROAS, LTV, cross-sell, spend, budgets, pricing, cost-to-serve, vendor names, and the like) have been **invented for this exercise**. They do **NOT** represent IM8's or Prenetics' actual metrics, performance, customers, or commercial arrangements, and must not be cited, quoted, or relied on as real. Only publicly disclosed facts — co-founders, athlete partners, product certifications, and Prenetics' reported financials — are genuine.
+
 ## Retention & Lifecycle Manager — IM8
 
 **Company:** IM8 / Prenetics (NASDAQ: PRE)
@@ -40,27 +43,27 @@ You've just signed your offer. It's Day 1.
 
 **IM8 today:**
 
-- Subscription is **~75% of revenue**. Current **MRR: ~$12.6M** (**ARR run-rate: ~$150M**).
-- Active subscriber base: **~210,000 globally**, weighted **78% monthly, 17% quarterly, 5% annual**.
-- **Daily Ultimate Essentials (DUE)** is the anchor SKU and accounts for **~85% of subscriber baskets**.
-- **New customer AOV (first order, includes welcome bundle): $160.** Average recurring monthly basket: **~$60**.
-- **First-purchase ROAS (D30, paid acquisition only): 0.8x** — the model only works because of retention compounding.
+- Subscription is **~70% of revenue** *(illustrative)*. Current **MRR: ~$9.0M** (**ARR run-rate: ~$108M**) *(illustrative)*.
+- Active subscriber base: **~175,000 globally** *(illustrative)*, weighted **80% monthly, 15% quarterly, 5% annual**.
+- **Daily Ultimate Essentials (DUE)** is the anchor SKU and accounts for **~80% of subscriber baskets** *(illustrative)*.
+- **New customer AOV (first order, includes welcome bundle): $135** *(illustrative)*. Average recurring monthly basket: **~$55**.
+- **First-purchase ROAS (D30, paid acquisition only): 0.7x** *(illustrative)* — the model only works because of retention compounding.
 
-**Cohort math today:**
+**Cohort math today (all figures illustrative):**
 
-- **M1 voluntary churn (after first delivery): 22%**
-- **M2–M6 voluntary churn: ~5%/month**
-- **Involuntary churn (failed payments): ~2.5%/month** — meaningfully above category benchmark of ~1.2%
-- **Monthly revenue retention: 92%** — the share of MRR retained month-over-month from the existing book, net of churn, reactivation and expansion (M1 cohort excluded as it has not yet onboarded)
-- **12-month LTV per acquired customer: ~$420** (~2.6x AOV)
-- **Cross-sell rate to a second SKU within 6 months: 11%**
-- **Reactivation rate (cancelled → re-subscribed within 90 days): 9%**
+- **M1 voluntary churn (after first delivery): ~18%**
+- **M2–M6 voluntary churn: ~4%/month**
+- **Involuntary churn (failed payments): ~2%/month** — above a category benchmark of ~1.2%
+- **Monthly revenue retention: 90%** — the share of MRR retained month-over-month from the existing book, net of churn, reactivation and expansion (M1 cohort excluded as it has not yet onboarded)
+- **12-month LTV per acquired customer: ~$380** (~2.8x AOV)
+- **Cross-sell rate to a second SKU within 6 months: ~9%**
+- **Reactivation rate (cancelled → re-subscribed within 90 days): ~8%**
 
-**Stack today:** Shopify, Recharge (subscription), Klaviyo (email + SMS), Attentive (US SMS), Gorgias (CS), Looker (reporting), Segment (CDP). AI tools are present in pockets but **not embedded in the operating model** — generative copy is in Klaviyo, but predictive churn, journey orchestration, and content personalisation are still mostly manual.
+**Stack today (illustrative):** a Shopify-based commerce stack with a dedicated subscription-management platform, an email/SMS marketing tool, a helpdesk, a BI/reporting layer, and a CDP. AI tools are present in pockets but **not embedded in the operating model** — generative copy exists in the ESP, but predictive churn, journey orchestration, and content personalisation are still mostly manual.
 
 **The CEO's mandate for your first 12 months:**
 
-> *"Get IM8 from $150M ARR to $300M+ ARR by end of FY27. Acquisition will do its share. Your job is to make every cohort we acquire compound — lift monthly revenue retention from 92% to 96%+, extend LTV until our paid team can outbid anyone anywhere, and make this an AI-native retention function. Every lifecycle manager working with an AI co-pilot. Every journey personalised at scale. Every cancellation reason fed back into the loop. Turn the cohorts we already have into a franchise."*
+> *"Get IM8 from ~$108M ARR run-rate to $250M+ ARR by end of FY27. Acquisition will do its share. Your job is to make every cohort we acquire compound — lift monthly revenue retention from 90% to 95%+, extend LTV until our paid team can outbid anyone anywhere, and make this an AI-native retention function. Every lifecycle manager working with an AI co-pilot. Every journey personalised at scale. Every cancellation reason fed back into the loop. Turn the cohorts we already have into a franchise."*
 
 Answer the five parts below.
 
@@ -78,20 +81,20 @@ If you can't make the scale case in a sentence, this isn't your role.
 
 ### 1B. The MRR Compounding Plan
 
-The CEO wants ARR from **$150M → $300M+ by end of FY27**. Acquisition will deliver its share. Your share is the retention multiplier: **lift monthly revenue retention from 92% to 96%+** over the next 12 months. Tell us exactly how. Be specific about sequence, owners, and measurement.
+The CEO wants ARR from **~$108M → $250M+ by end of FY27**. Acquisition will deliver its share. Your share is the retention multiplier: **lift monthly revenue retention from 90% to 95%+** over the next 12 months. Tell us exactly how. Be specific about sequence, owners, and measurement.
 
 Your plan must cover:
 
 - **The diagnosis.** Looking at the cohort numbers above, where is the actual MRR leak? M1 voluntary? Involuntary? Quarterly downgrade? Cross-sell drop-off? Show the math.
 - **The top 3 levers, ranked.** For each: what you'd do, the expected lift in monthly revenue retention (in points) and the resulting MRR/ARR impact, the timeline, and what would falsify your bet.
 - **The offer architecture.** What changes to the monthly/quarterly/annual mix do you push? Show the new offer and the migration mechanic.
-- **Involuntary churn.** 2.5%/month is leaving MRR on the table. What's your specific 90-day plan to halve it?
+- **Involuntary churn.** ~2%/month is leaving MRR on the table. What's your specific 90-day plan to halve it?
 - **The measurement plan.** What's on the weekly dashboard. What incrementality tests prove the levers worked (vs. just correlated with seasonality).
 
 **IM8-specific angles to consider:**
 
 - **43 markets, 60% non-US.** A one-size-fits-all journey will leave MRR on the table. What changes per region?
-- **DUE is 85% of baskets.** Single-SKU subscribers churn harder than multi-SKU subscribers in supplements. Read the math.
+- **DUE is ~80% of baskets.** Single-SKU subscribers churn harder than multi-SKU subscribers in supplements. Read the math.
 - **Athlete and team roster is unique.** How do you turn Beckham / Sabalenka / Giannis / Bearman / Inter Miami into retention assets, not just acquisition assets?
 
 ## Part 2: The AI-Native Operating System & Tech Stack (25%)
@@ -118,7 +121,7 @@ For each workflow:
 
 ### 2C. The retention tech stack you'd actually run
 
-Our current stack is listed at the top of the brief (Shopify, Recharge, Klaviyo, Attentive, Gorgias, Looker, Segment). Tell us what you'd actually run at IM8 — **what stays, what goes, what you'd add, and why.**
+Our current stack is described at the top of the brief (a Shopify + subscription-platform + ESP + helpdesk + BI + CDP setup). Tell us what you'd actually run at IM8 — **what stays, what goes, what you'd add, and why.**
 
 Be specific about vendors. Show us you know the landscape — for example, Skio, Stay AI, Ordergroove, Alia, Postscript, Yotpo, LoyaltyLion, Friendbuy, Black Crow, Bluecore, Insider, Movable Ink, Octane AI, Repeat, Bonsai, and the long tail. The list is illustrative, not prescriptive — bring whatever you'd actually pick. We're not testing whether you can name vendors; we're testing whether you can defend choices.
 
@@ -140,7 +143,7 @@ At minimum, take a position on:
 
 ## Part 3: The Cross-Sell Architecture (20%)
 
-**11% cross-sell to a second SKU within 6 months is too low** for a brand with our basket potential (Essentials → Longevity → Beckham Stack → future launches). Design the cross-sell engine that doubles it without lifting CAC.
+**~9% cross-sell to a second SKU within 6 months is too low** for a brand with our basket potential (Essentials → Longevity → Beckham Stack → future launches). Design the cross-sell engine that doubles it without lifting CAC.
 
 Your answer must cover:
 
@@ -207,7 +210,7 @@ Pick **ONE** of these four decisions. Tell us exactly what you'd do, why, and wh
 **Ground rules:**
 
 - **Deadline:** 7 calendar days from when you receive this.
-- **Confidentiality:** Q1 2026 revenue, FY26 guidance, country count, and athlete partners are public disclosures. All cohort-level numbers (subscriber count, MRR, ARR, churn rates, revenue retention, LTV, cross-sell, ROAS, FY27 ARR target) are illustrative. Treat the illustrative figures as if real; don't share externally.
+- **Confidentiality:** Only publicly disclosed facts (co-founders, athlete partners, product certifications, and Prenetics' reported financials) are genuine. **Every cohort- and operations-level number in this brief (subscriber count, MRR, ARR, churn rates, revenue retention, LTV, cross-sell, ROAS, FY27 ARR target, pricing, vendor stack) is fictional and invented for this exercise** — it does not reflect IM8's or Prenetics' actual metrics. Treat the illustrative figures as if real for the purpose of answering, but do not cite or share them as real company data.
 - **No AI ban.** Use whatever tools you'd use on the job. We are scoring your thinking, not your typing.
 
 A reminder: ties to Claude don't advance. Make a call.

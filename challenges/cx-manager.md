@@ -1,5 +1,8 @@
 # Beat Claude Challenge Brief
 
+> ⚠️ **THE OPERATIONAL FIGURES IN THIS CHALLENGE ARE FICTIONAL — NOT REAL COMPANY DATA.**
+> All operations-level numbers below (team size, ticket rate, AI resolution rate, CSAT, response times, churn, cost-to-serve, and the like), and the named service vendor, have been **invented for this exercise**. They do **NOT** represent IM8's or Prenetics' actual CX metrics, performance, or vendor relationships, and must not be cited, quoted, or relied on as real. Only publicly disclosed facts — co-founders, athlete partners, product certifications, and Prenetics' reported financials — are genuine.
+
 ## Customer Experience Manager — IM8
 
 **Company:** IM8 / Prenetics (NASDAQ: PRE)
@@ -40,13 +43,13 @@ You've just signed your offer. It's Day 1.
 
 **IM8 global CX today:**
 
-- **~8 CX agents** across HK, UK, and US time zones, plus **Siena AI** handling first-touch automated responses
-- **Ticket rate: ~4.2% of orders** across email, chat, and social DMs — mixed subscription, billing, shipping, and product questions
-- **Siena AI self-reports ~55% first-touch resolution** without a human — *this is the tool's own number, measured its way*
-- **CSAT: 4.3 / 5** — but measured on a **~20% survey response rate**
-- **Median first response time: 6 hours; median resolution time: 28 hours**
-- **Monthly subscriber churn: ~7%** — the share that is CX-preventable (failed deliveries, billing friction, unanswered pre-cancellation tickets) is **not currently measured**
-- **Cost-to-serve: ~$3.10 per order** in CX operating cost — leadership wants CX to scale with revenue *without* this number rising
+- **~6 CX agents** across HK, UK, and US time zones, plus **our first-touch AI tool** handling automated responses
+- **Ticket rate: ~3.5% of orders** across email, chat, and social DMs — mixed subscription, billing, shipping, and product questions
+- **The AI tool self-reports ~60% first-touch resolution** without a human — *this is the tool's own number, measured its way*
+- **CSAT: 4.4 / 5** — but measured on a **~20% survey response rate**
+- **Median first response time: 7 hours; median resolution time: 30 hours**
+- **Monthly subscriber churn: ~6%** — the share that is CX-preventable (failed deliveries, billing friction, unanswered pre-cancellation tickets) is **not currently measured**
+- **Cost-to-serve: ~$2.80 per order** in CX operating cost — leadership wants CX to scale with revenue *without* this number rising
 - **No unified QA rubric, no single VOC (voice-of-customer) loop back to Product or Marketing, and a backlog that grows every launch**
 
 We have deliberately *not* told you which of these numbers to trust, which to fix first, or what's missing. Part of what we're testing is whether you can tell.
@@ -59,7 +62,7 @@ Answer the five parts below. Weightings are shown — **spend your effort where 
 
 Give us your first 90 days as a real operating sequence — diagnose, stabilise, build — not a vision deck. We're not handing you a checklist; **you decide what matters and defend the sequence.** Tell us what you'd ship week-by-week, what you'd measure, what you'd deliberately leave untouched, and the dashboard you'd put in front of the CEO on day 90.
 
-Cover the operating model you'd build: channel strategy (email / chat / social / phone), the Siena-AI-plus-human tiering, the weekly operating rhythm across three time zones, and the QA system that keeps quality from drifting once you look away. The strongest answers make a clear, evidence-backed call on *what to fix first and why*, and say out loud what they're choosing **not** to do — and why that restraint is correct.
+Cover the operating model you'd build: channel strategy (email / chat / social / phone), the AI-plus-human tiering, the weekly operating rhythm across three time zones, and the QA system that keeps quality from drifting once you look away. The strongest answers make a clear, evidence-backed call on *what to fix first and why*, and say out loud what they're choosing **not** to do — and why that restraint is correct.
 
 ---
 
@@ -72,7 +75,7 @@ We care less about an idealised org chart and more about the economics and the c
 - What does the team look like at today's volume vs. at 2x volume? Which roles do you add, in what order, and why?
 - **In-house vs. BPO / offshore vs. AI deflection** — where does each dollar go, and what's your rationale? Show the cost-to-serve math.
 - What's the leadership layer beneath you (leads, QA, workforce planning) and when does each hire earn its cost?
-- How do you keep **$3.10 / order flat or falling** while ticket volume rises with the business? Be specific about the levers and the tradeoffs each one carries for a *premium* brand.
+- How do you keep **$2.80 / order flat or falling** while ticket volume rises with the business? Be specific about the levers and the tradeoffs each one carries for a *premium* brand.
 
 Show the thinking and the numbers, not a template.
 
@@ -88,7 +91,7 @@ Not "planned to," not "exploring." How you use AI **today** — auto-triage, mac
 
 ### 3B. The IM8 CX AI stack you'd deploy in your first 90 days
 
-Siena AI handles first touch today. Show the specific AI workflows you'd embed **beyond** that in your first 90 days that materially change the volume, cost, or quality of service. For each: the named tool, the workflow it replaces or compounds, the metric it moves (and by how much), how you'd measure it, and what could go wrong.
+the AI tool handles first touch today. Show the specific AI workflows you'd embed **beyond** that in your first 90 days that materially change the volume, cost, or quality of service. For each: the named tool, the workflow it replaces or compounds, the metric it moves (and by how much), how you'd measure it, and what could go wrong.
 
 **What we're NOT looking for:** "We'll use ChatGPT to draft replies." At least one workflow must go beyond drafting/deflection into **prescriptive or agentic** action — proactive churn-save outreach, auto-resolution of a whole ticket class end-to-end, or a real-time agent-assist that changes the outcome of the conversation.
 
@@ -115,11 +118,11 @@ This is the section that decides it. Two parts.
 
 For each, give us the call, the reasoning, and — critically — **the specific evidence that would change your mind.** A decision without a falsifiable kill-condition is a guess.
 
-**(a) Launch day, live.** A new flavour launches with a Beckham content push. In the first 2 hours: ticket volume spikes **4x** above forecast, a **portal bug** blocks 15% of new subscribers at checkout, and Siena AI's confidence threshold is too low for the new-product queries so it's **escalating 80% to humans** instead of the expected 40%. Your team is drowning and one agent just messaged that they need to step away. You have 30 minutes. Walk us through minute 0–5, 5–15, 15–30 — and what you tell leadership, your team, and the stuck customers.
+**(a) Launch day, live.** A new flavour launches with a Beckham content push. In the first 2 hours: ticket volume spikes **4x** above forecast, a **portal bug** blocks 15% of new subscribers at checkout, and the AI tool's confidence threshold is too low for the new-product queries so it's **escalating 80% to humans** instead of the expected 40%. Your team is drowning and one agent just messaged that they need to step away. You have 30 minutes. Walk us through minute 0–5, 5–15, 15–30 — and what you tell leadership, your team, and the stuck customers.
 
-**(b) Siena's number.** Siena AI self-reports 55% first-touch resolution. A manual audit of 200 "resolved" conversations finds only 38% were actually resolved — the rest re-contacted within 72 hours. The vendor insists your sample is unrepresentative. Renewal is in 6 weeks. What do you do this week, and how do you resolve the truth of the number?
+**(b) The AI tool's number.** The AI tool self-reports 60% first-touch resolution. A manual audit of 200 "resolved" conversations finds only ~42% were actually resolved — the rest re-contacted within 72 hours. The vendor insists your sample is unrepresentative. Renewal is in 6 weeks. What do you do this week, and how do you resolve the truth of the number?
 
-**(c) Cost vs. premium.** Finance wants cost-to-serve down 20% next quarter. The fastest path is pushing more volume to Siena and adding an offshore BPO tier. It hits the number — but risks the premium feel of a Beckham-backed brand. Do you take the deal? Where exactly do you draw the automation-vs-human line, and what do you refuse to compromise?
+**(c) Cost vs. premium.** Finance wants cost-to-serve down 20% next quarter. The fastest path is pushing more volume to the AI tool and adding an offshore BPO tier. It hits the number — but risks the premium feel of a Beckham-backed brand. Do you take the deal? Where exactly do you draw the automation-vs-human line, and what do you refuse to compromise?
 
 **(d) The underperformer.** One agent has been underperforming for two months — low QA, slow responses, and the team has noticed. You don't yet know the root cause. Walk us through week 1, the 30/60/90 plan, and the exact point at which you'd exit them, and how. No HR-speak — show leadership judgment.
 
@@ -132,7 +135,7 @@ Claude's baseline answer to this challenge is strong but has blind spots. **Name
 ## What We're Looking For
 
 - **Judgment over coverage.** You tell us what matters and what to ignore. You prioritise, and you defend the prioritisation.
-- **You interrogate the numbers.** You don't take Siena's self-reported deflection or a 20%-response CSAT at face value. You can read the signals above and tell us where the leakage *actually* sits.
+- **You interrogate the numbers.** You don't take the AI tool's self-reported deflection or a 20%-response CSAT at face value. You can read the signals above and tell us where the leakage *actually* sits.
 - **Commercial rigour.** Real cost-to-serve math, real tradeoffs with explicit dollar and churn impact. Cite sources for benchmarks.
 - **Premium brand instinct.** You understand what "premium service" means for a wellness brand backed by David Beckham — and where automation helps vs. cheapens it.
 - **CX as a growth function.** You connect service to retention and LTV, and you can move a fix you don't own.
@@ -170,7 +173,7 @@ Claude's baseline answer to this challenge is strong but has blind spots. **Name
 **Ground rules:**
 
 - **Deadline:** 7 calendar days from when you receive this.
-- **Confidentiality:** Q1 2026 revenue, FY26 guidance, country count, and athlete partners are public disclosures. All operational numbers (team size, ticket rate, Siena resolution, CSAT, response times, churn, cost-to-serve) are illustrative. Treat the illustrative figures as if real; don't share externally.
+- **Confidentiality:** Only publicly disclosed facts (co-founders, athlete partners, product certifications, and Prenetics' reported financials) are genuine. **Every operational number in this brief (team size, ticket rate, AI resolution rate, CSAT, response times, churn, cost-to-serve) and the named service vendor are fictional and invented for this exercise** — they do not reflect IM8's or Prenetics' actual CX metrics or vendor relationships. Treat the illustrative figures as if real for the purpose of answering, but do not cite or share them as real company data.
 - **No AI ban.** Use whatever tools you'd use on the job. We are scoring your thinking, not your typing.
 
 A reminder: **ties don't advance. Make the calls.**

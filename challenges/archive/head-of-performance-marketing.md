@@ -1,5 +1,8 @@
 # Beat Claude Challenge Brief
 
+> ⚠️ **THE OPERATIONAL FIGURES IN THIS CHALLENGE ARE FICTIONAL — NOT REAL COMPANY DATA.**
+> All the numbers below (media spend, CAC, ROAS, AOV, LTV, channel mix, creative volume, budgets, and vendor deal terms) have been **invented for this exercise**. They do **NOT** represent IM8's or Prenetics' actual media spend, performance, unit economics, or commercial arrangements, and must not be cited, quoted, or relied on as real. Only publicly disclosed facts — co-founders, athlete partners, and product certifications — are genuine.
+
 ## Head of Performance Marketing — IM8
 
 **Company:** IM8 / Prenetics (NASDAQ: PRE)
@@ -44,7 +47,7 @@ We read **Part 1 first**. If the operator note at the top doesn't clear our bar,
 
 You've just signed your offer. It's Day 1.
 
-IM8 currently spends **$3.5M/month** on global paid acquisition. CAC is **$200**, blended ROAS is **0.8x first-purchase**, payback sits at **~6 months**. New Customer AOV is **$160**, subscription first purchase rate is **75%**, 12-month LTV is **3x**. Mix today: **Meta 60% / Google 20% / TikTok 12% / AppLovin 6% / YouTube 2%**. Creative refresh cadence is roughly **4,000 ads/month** — produced by a mix of in-house editors (40%), agency (30%), and AI tooling (30%).
+IM8 currently spends **~$2.4M/month** on global paid acquisition *(illustrative)*. CAC is **$175**, blended ROAS is **0.7x first-purchase**, payback sits at **~5 months**. New Customer AOV is **$135**, subscription first purchase rate is **~70%**, 12-month LTV is **~2.5x**. Mix today: **Meta ~55% / Google ~22% / TikTok ~14% / other emerging channels ~9%**. Creative refresh cadence is roughly **3,000 ads/month** — produced by a mix of in-house editors (~45%), agency (~25%), and AI tooling (~30%). *(All figures illustrative.)*
 
 You inherit a team of 4 (2 channel managers, 2 in-house editors, no strategist, no AI/automation engineer).
 
@@ -83,7 +86,7 @@ Sequence your first 30 days to set the stage for hitting the CEO's mandate. We w
 ### IM8-specific angles to consider
 
 - We are in **31 countries**. Where do you focus first, and what gets deprioritised?
-- The CAC ($200), payback (6mo), and ROAS (0.8x first-purchase) numbers tell a story about where the leverage is. Read the math.
+- The CAC ($175), payback (~5mo), and ROAS (0.7x first-purchase) numbers tell a story about where the leverage is. Read the math.
 - The team has no strategist and no AI/automation engineer. What does that constraint mean for what you can ship in 30 days?
 
 ---
@@ -110,7 +113,7 @@ We want to see how you think under commercial constraint. Multiple deployments d
 
 Pick **ONE** of these four decisions. Tell us exactly what you'd do, why, and what evidence would change your mind.
 
-**(a)** AppLovin is pitching you on $400K/month minimum spend at projected $140 CAC. Meta CAC is creeping toward $220. Do you take the AppLovin deal?
+**(a)** A major emerging performance channel is pitching you on a $250K/month minimum-spend deal at a projected $150 CAC. Meta CAC is creeping toward $200. Do you take the deal?
 
 **(b)** Your in-house editors + AI tooling can produce 800 ads/week at 75% of agency quality. The agency produces 400/week at 100%. Do you fire the agency?
 
@@ -215,7 +218,7 @@ For each system:
 **Ground rules:**
 
 - **Deadline:** 7 calendar days from when you receive this.
-- **Confidentiality:** All figures in this brief are illustrative. Treat them as if real; don't share externally.
+- **Confidentiality:** **Every figure in this brief is fictional and invented for this exercise** — it does not reflect IM8's or Prenetics' actual media spend, performance, unit economics, or commercial arrangements. Treat them as if real for the purpose of answering, but do not cite or share them as real company data.
 - **No AI ban.** Use whatever tools you'd use on the job. We are scoring your thinking, not your typing. We can tell the difference.
 
 A reminder: **ties don't advance. Make a call.**

@@ -1,5 +1,8 @@
 # Beat Claude Challenge Brief
 
+> ⚠️ **THE OPERATIONAL FIGURES IN THIS CHALLENGE ARE FICTIONAL — NOT REAL COMPANY DATA.**
+> All the numbers below (budgets, spend, CAC, ROAS, AOV, LTV, campaign-level performance, and the like) have been **invented for this exercise**. They do **NOT** represent IM8's or Prenetics' actual media spend, performance, or unit economics, and must not be cited, quoted, or relied on as real. Only publicly disclosed facts — co-founders, athlete partners, and product certifications — are genuine.
+
 ## Junior Media Buyer — IM8
 
 **Company:** IM8 / Prenetics (NASDAQ: PRE)
@@ -32,28 +35,28 @@ The brand has product-market fit, a serious creative arsenal, and a global, subs
 
 ## The Challenge
 
-You've just joined the Paid Social team. You own day-to-day buying for **two markets — the UK and Australia — with a combined budget of ~$130K/week (~$560K/month)** on Meta. You report to the Head of Performance Marketing and partner with a dedicated paid creative team.
+You've just joined the Paid Social team. You own day-to-day buying for **two markets — the UK and Australia — with a combined budget of ~$95K/week (~$410K/month)** on Meta. You report to the Head of Performance Marketing and partner with a dedicated paid creative team. *(All figures below are illustrative.)*
 
 Some context on the business you're buying for:
 
-- **New Customer AOV:** $160
-- **Subscription first-purchase rate:** 75%
-- **12-month LTV:** ~3x first order
-- **Target blended CAC:** $200 (payback target: under 3 months)
+- **New Customer AOV:** $135
+- **Subscription first-purchase rate:** ~70%
+- **12-month LTV:** ~2.5x first order
+- **Target blended CAC:** $175 (payback target: under 3 months)
 - **Creative supply:** the creative team can ship you ~30 net-new ad concepts/week across both markets
 
-Here's last week's account snapshot for your two markets:
+Here's last week's account snapshot for your two markets *(illustrative)*:
 
 | Campaign | Market | Strategy | Spend | New Customers | CAC | First-purchase ROAS | Notes |
 |---|---|---|---|---|---|---|---|
-| UK – Prospecting ABO | UK | Manual, broad | $42,000 | 165 | $255 | 0.63x | 6 ad sets, manual bids, flat 3 weeks |
-| UK – Advantage+ Shopping | UK | A+ Shopping | $28,000 | 175 | $160 | 1.00x | Scaled 40% last week, CAC held |
-| UK – Retargeting | UK | ABO, 7-day site visitors | $9,000 | 60 | $150 | 1.07x | Tiny audience, frequency 6.8 |
-| AU – Prospecting CBO | AU | CBO, 4 ad sets | $31,000 | 120 | $258 | 0.62x | One ad set eating 70% of budget |
-| AU – Advantage+ Shopping | AU | A+ Shopping | $14,000 | 78 | $179 | 0.89x | Launched 10 days ago, learning |
-| AU – Creative Test | AU | ABO, test cell | $6,000 | 14 | $429 | 0.37x | 3 new concepts, 4 days live |
+| UK – Prospecting ABO | UK | Manual, broad | $30,000 | 130 | $231 | 0.68x | 6 ad sets, manual bids, flat 3 weeks |
+| UK – Advantage+ Shopping | UK | A+ Shopping | $22,000 | 145 | $152 | 1.03x | Scaled 40% last week, CAC held |
+| UK – Retargeting | UK | ABO, 7-day site visitors | $7,000 | 48 | $146 | 1.08x | Tiny audience, frequency 6.8 |
+| AU – Prospecting CBO | AU | CBO, 4 ad sets | $22,000 | 88 | $250 | 0.63x | One ad set eating 70% of budget |
+| AU – Advantage+ Shopping | AU | A+ Shopping | $10,000 | 56 | $179 | 0.88x | Launched 10 days ago, learning |
+| AU – Creative Test | AU | ABO, test cell | $4,000 | 10 | $400 | 0.39x | 3 new concepts, 4 days live |
 
-You have **no incremental budget this week** — same ~$130K/week. The Head of Performance wants your read and your plan by end of day.
+You have **no incremental budget this week** — same ~$95K/week. The Head of Performance wants your read and your plan by end of day.
 
 Answer the four parts below.
 
@@ -90,11 +93,11 @@ Your answer must cover:
 
 Pick **ONE** of the three decisions below. Tell us exactly what you'd do, why, and what evidence would change your mind.
 
-**(a)** Your UK Advantage+ Shopping campaign is your best performer ($160 CAC) and you scaled it 40% last week without CAC moving. Do you scale it another 40% this week, or hold? What would make you wrong?
+**(a)** Your UK Advantage+ Shopping campaign is your best performer ($152 CAC) and you scaled it 40% last week without CAC moving. Do you scale it another 40% this week, or hold? What would make you wrong?
 
-**(b)** The AU Creative Test cell is at $429 CAC after 4 days and $6,000 spent — well above target. Do you kill it now, or keep it live? At what point is "give creative time to learn" just burning money?
+**(b)** The AU Creative Test cell is at $400 CAC after 4 days and $4,000 spent — well above target. Do you kill it now, or keep it live? At what point is "give creative time to learn" just burning money?
 
-**(c)** Your UK Retargeting is your lowest CAC ($150) but frequency is 6.8 and the audience is tiny. Do you push more budget into it, hold, or pull back? What's the trap here?
+**(c)** Your UK Retargeting is your lowest CAC ($146) but frequency is 6.8 and the audience is tiny. Do you push more budget into it, hold, or pull back? What's the trap here?
 
 We want a decision, not a hedge. "It depends" without saying what it depends on will fail.
 
@@ -149,7 +152,7 @@ Your answer must cover:
 **Ground rules:**
 
 - **Deadline:** 7 calendar days from when you receive this.
-- **Confidentiality:** All figures in this brief are illustrative. Treat them as if real; don't share externally.
+- **Confidentiality:** **Every figure in this brief is fictional and invented for this exercise** — it does not reflect IM8's or Prenetics' actual media spend, performance, or unit economics. Treat them as if real for the purpose of answering, but do not cite or share them as real company data.
 - **No AI ban.** Use whatever tools you'd use on the job. We are scoring your thinking, not your typing. We can tell the difference.
 
 A reminder: **ties don't advance. Make a call.**
