@@ -168,7 +168,7 @@ Pick **ONE** of these four decisions. Tell us exactly what you'd do, why, and wh
 
 **(a)** Your retention analyst says raising M1 retention by 5 points requires a free 7-day onboarding kit (cost: $18/sub). Finance says it adds 6 weeks to payback. The CEO is publicly committed to faster payback. Do you ship the kit?
 
-**(b)** Klaviyo's predictive churn model is right ~70% of the time. Building a custom model on your CDP data would push that to ~85% but takes 4 months and an engineering hire. Do you use Klaviyo's model now, or build the custom one?
+**(b)** Your ESP's off-the-shelf predictive churn model is right ~70% of the time. Building a custom model on your CDP data would push that to ~85% but takes 4 months and an engineering hire. Do you use the off-the-shelf model now, or build the custom one?
 
 **(c)** Annual subscriptions have 3x the LTV of monthly but 2x higher conversion friction. Your CFO wants you to push 30% of new subscribers onto annual within 6 months. Your data says aggressive annual push will tank acquisition conversion by 15%. What do you commit to?
 
