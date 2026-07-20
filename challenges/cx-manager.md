@@ -1,7 +1,6 @@
 # Beat Claude Challenge Brief
 
-> ⚠️ **THE OPERATIONAL FIGURES IN THIS CHALLENGE ARE FICTIONAL — NOT REAL COMPANY DATA.**
-> All operations-level numbers below (team size, ticket rate, AI resolution rate, CSAT, response times, churn, cost-to-serve, and the like), and the named service vendor, have been **invented for this exercise**. They do **NOT** represent IM8's or Prenetics' actual CX metrics, performance, or vendor relationships, and must not be cited, quoted, or relied on as real. Only publicly disclosed facts — co-founders, athlete partners, product certifications, and Prenetics' reported financials — are genuine.
+> *Figures in this brief are illustrative, created for this exercise, and don't represent IM8's actual metrics. Publicly disclosed facts are genuine.*
 
 ## Customer Experience Manager — IM8
 

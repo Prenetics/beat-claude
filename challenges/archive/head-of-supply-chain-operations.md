@@ -1,7 +1,6 @@
 # Beat Claude Challenge Brief
 
-> ⚠️ **THE OPERATIONAL FIGURES IN THIS CHALLENGE ARE FICTIONAL — NOT REAL COMPANY DATA.**
-> All operations-level numbers below (shipment volume, SKU/kit counts, accuracy, defect rate, ticket rate, cycle times, vendor pricing, and systems cost), and the named ERP/3PL details, have been **invented for this exercise**. They do **NOT** represent IM8's or Prenetics' actual operations, performance, systems, or vendor relationships, and must not be cited, quoted, or relied on as real. Only publicly disclosed facts — co-founders, athlete partners, product certifications, and Prenetics' reported financials — are genuine.
+> *Figures in this brief are illustrative, created for this exercise, and don't represent IM8's actual metrics. Publicly disclosed facts are genuine.*
 
 ## Head of Supply Chain & Operations — US — IM8
 

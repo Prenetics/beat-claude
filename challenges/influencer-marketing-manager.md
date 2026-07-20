@@ -1,7 +1,6 @@
 # Beat Claude Challenge: Influencer Marketing Manager
 
-> ⚠️ **THE BUSINESS FIGURES IN THIS CHALLENGE ARE FICTIONAL — NOT REAL COMPANY DATA.**
-> All the numbers below (ARR, budgets, GMV targets, programme sizes, and the like) have been **invented for this exercise**. They do **NOT** represent IM8's or Prenetics' actual financials, performance, or commercial plans, and must not be cited, quoted, or relied on as real. Only publicly disclosed facts — co-founders, athlete partners, and product certifications — are genuine.
+> *Figures in this brief are illustrative, created for this exercise, and don't represent IM8's actual metrics. Publicly disclosed facts are genuine.*
 
 **IM8 Health | Prenetics (NASDAQ: PRE)**
 *Co-founded by David Beckham*

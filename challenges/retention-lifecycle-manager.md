@@ -1,7 +1,6 @@
 # Beat Claude Challenge Brief
 
-> ⚠️ **THE OPERATIONAL FIGURES IN THIS CHALLENGE ARE FICTIONAL — NOT REAL COMPANY DATA.**
-> All cohort- and operations-level numbers below (subscribers, MRR/ARR run-rate, churn, CAC, ROAS, LTV, cross-sell, spend, budgets, pricing, cost-to-serve, vendor names, and the like) have been **invented for this exercise**. They do **NOT** represent IM8's or Prenetics' actual metrics, performance, customers, or commercial arrangements, and must not be cited, quoted, or relied on as real. Only publicly disclosed facts — co-founders, athlete partners, product certifications, and Prenetics' reported financials — are genuine.
+> *Figures in this brief are illustrative, created for this exercise, and don't represent IM8's actual metrics. Publicly disclosed facts are genuine.*
 
 ## Retention & Lifecycle Manager — IM8
 

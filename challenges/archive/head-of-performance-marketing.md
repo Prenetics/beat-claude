@@ -1,7 +1,6 @@
 # Beat Claude Challenge Brief
 
-> ⚠️ **THE OPERATIONAL FIGURES IN THIS CHALLENGE ARE FICTIONAL — NOT REAL COMPANY DATA.**
-> All the numbers below (media spend, CAC, ROAS, AOV, LTV, channel mix, creative volume, budgets, and vendor deal terms) have been **invented for this exercise**. They do **NOT** represent IM8's or Prenetics' actual media spend, performance, unit economics, or commercial arrangements, and must not be cited, quoted, or relied on as real. Only publicly disclosed facts — co-founders, athlete partners, and product certifications — are genuine.
+> *Figures in this brief are illustrative, created for this exercise, and don't represent IM8's actual metrics. Publicly disclosed facts are genuine.*
 
 ## Head of Performance Marketing — IM8
 

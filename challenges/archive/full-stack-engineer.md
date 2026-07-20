@@ -1,5 +1,7 @@
 # Beat Claude Challenge: Principal/Senior Full-Stack Engineer
 
+> *Figures in this brief are illustrative, created for this exercise, and don't represent IM8's actual metrics. Publicly disclosed facts are genuine.*
+
 **IM8 Health | Prenetics (NASDAQ: PRE)**
 *Co-founded by David Beckham*
 
@@ -254,7 +256,6 @@ All publicly available — no internal access needed:
 **Please also include in your email:**
 - A **Loom video** walking us through your thought process and how you approached the challenge
 - Your **current salary** and **expected salary**
-
 
 ---
 

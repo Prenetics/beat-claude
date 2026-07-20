@@ -1,6 +1,6 @@
 # Challenge: Growth Manager — TikTok Shop
 
-> ⚠️ **THE FIGURES IN THIS CHALLENGE ARE FICTIONAL — NOT REAL COMPANY DATA.** All numbers below (GMV, AOV, conversion rate, affiliate counts, SKU counts) are **invented for this exercise** and do **NOT** represent IM8's or Prenetics' actual TikTok Shop performance. Only publicly disclosed brand facts are genuine.
+> *Figures in this brief are illustrative, created for this exercise, and don't represent IM8's actual metrics. Publicly disclosed facts are genuine.*
 
 **Role:** Growth Manager (TikTok Shop)
 **Brand:** IM8

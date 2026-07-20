@@ -1,6 +1,6 @@
 # Challenge: Social Media & Community Manager — US
 
-> ⚠️ **THE FIGURES IN THIS CHALLENGE ARE FICTIONAL — NOT REAL COMPANY DATA.** The follower, engagement, and cadence numbers below are **invented for this exercise** and do **NOT** represent IM8's actual social metrics. Only publicly disclosed brand facts are genuine.
+> *Figures in this brief are illustrative, created for this exercise, and don't represent IM8's actual metrics. Publicly disclosed facts are genuine.*
 
 **Role:** Social Media & Community Manager (US)
 **Brand:** IM8

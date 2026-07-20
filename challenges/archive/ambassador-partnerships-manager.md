@@ -1,5 +1,7 @@
 # Beat Claude Challenge: Ambassador & Partnerships Manager
 
+> *Figures in this brief are illustrative, created for this exercise, and don't represent IM8's actual metrics. Publicly disclosed facts are genuine.*
+
 **IM8 Health | Prenetics (NASDAQ: PRE)**
 *Co-founded by David Beckham*
 

@@ -1,5 +1,7 @@
 # Beat Claude Challenge Brief
 
+> *Figures in this brief are illustrative, created for this exercise, and don't represent IM8's actual metrics. Publicly disclosed facts are genuine.*
+
 ## Social Media Manager — IM8
 
 **Company:** IM8 / Prenetics (NASDAQ: PRE)

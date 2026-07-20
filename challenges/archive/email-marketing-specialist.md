@@ -1,5 +1,7 @@
 # Beat Claude Challenge Brief
 
+> *Figures in this brief are illustrative, created for this exercise, and don't represent IM8's actual metrics. Publicly disclosed facts are genuine.*
+
 ## Email Marketing Specialist — IM8 Health
 
 **Company:** IM8 Health / Prenetics (NASDAQ: PRE)
