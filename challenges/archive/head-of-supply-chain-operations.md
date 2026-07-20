@@ -1,5 +1,8 @@
 # Beat Claude Challenge Brief
 
+> ⚠️ **THE OPERATIONAL FIGURES IN THIS CHALLENGE ARE FICTIONAL — NOT REAL COMPANY DATA.**
+> All operations-level numbers below (shipment volume, SKU/kit counts, accuracy, defect rate, ticket rate, cycle times, vendor pricing, and systems cost), and the named ERP/3PL details, have been **invented for this exercise**. They do **NOT** represent IM8's or Prenetics' actual operations, performance, systems, or vendor relationships, and must not be cited, quoted, or relied on as real. Only publicly disclosed facts — co-founders, athlete partners, product certifications, and Prenetics' reported financials — are genuine.
+
 ## Head of Supply Chain & Operations — US — IM8
 
 **Company:** IM8 / Prenetics (NASDAQ: PRE)
@@ -38,19 +41,19 @@ You've just signed your offer. It's Day 1.
 
 **IM8 US operations today:**
 
-- **~80,000 outbound shipments / month** from 2 US 3PLs (East + West coast)
-- **~52 active SKUs** across the catalogue; **~9 component kits** average per order (Daily Ultimate Essentials Stack, Beckham Stack, Longevity, OTP, Monthly, Quarterly)
-- **5 manufacturing partners** producing finished goods + components across the US and Asia
-- **Microsoft Dynamics 365** as the ERP / inventory backbone
+- **~55,000 outbound shipments / month** from 2 US 3PLs (East + West coast) *(illustrative)*
+- **~40 active SKUs** across the catalogue; **~8 component kits** average per order (Daily Ultimate Essentials Stack, Beckham Stack, Longevity, OTP, Monthly, Quarterly)
+- **Several manufacturing partners** producing finished goods + components across the US and Asia
+- **A third-party ERP** as the inventory / operations backbone
 
-**Current operational signals (read these critically — not every number means what it appears to):**
+**Current operational signals (illustrative — and read critically; not every number means what it appears to):**
 
-- **East-coast 3PL self-reports ~99.1% order accuracy.** This is *the 3PL's own number*, measured their way.
-- **Customer Success ticket rate: ~4.2%** of orders (mostly shipping accuracy + product condition complaints).
-- **Defect rate (returned for quality): ~1.8%** of outbound — target <0.5%.
-- **Order accuracy (blended): ~98%** — leadership wants this at 100%.
-- **Average kitting cycle time: 36 hours** from order received → label printed.
-- **Returns processing time: 8 days** from receipt → refund issued.
+- **East-coast 3PL self-reports ~99.0% order accuracy.** This is *the 3PL's own number*, measured their way.
+- **Customer Success ticket rate: ~3.5%** of orders (mostly shipping accuracy + product condition complaints).
+- **Defect rate (returned for quality): ~1.2%** of outbound — target <0.5%.
+- **Order accuracy (blended): ~97.5%** — leadership wants this at 100%.
+- **Average kitting cycle time: ~30 hours** from order received → label printed.
+- **Returns processing time: ~8 days** from receipt → refund issued.
 - **Shaker design has changed 4 times in the last 18 months** — every change has rippled into outdated inventory write-offs, mis-shipped components, and customer confusion.
 
 We have deliberately *not* told you which of these numbers to trust, which to fix first, or what's missing. Part of what we're testing is whether you can tell.
@@ -107,15 +110,15 @@ This is the section that decides it. Two parts:
 
 For each, give us the call, the reasoning, and — critically — **the specific evidence that would change your mind.** A decision without a falsifiable kill-condition is a guess.
 
-**(a)** A new shaker redesign lands in 60 days. You have 80,000 units of the old design in 3PL inventory. Write them off and ship the new design clean, or bleed through the old inventory and risk 4 months of customer confusion?
+**(a)** A new shaker redesign lands in 60 days. You have ~55,000 units of the old design in 3PL inventory. Write them off and ship the new design clean, or bleed through the old inventory and risk 4 months of customer confusion?
 
-**(b)** A new 3PL pitches 99.7% accuracy at $5.10/order vs your incumbent's reported 99.1% at $4.20/order, with a 6-month migration and a 2-week stabilisation dip. Do you switch?
+**(b)** A new 3PL pitches 99.6% accuracy at $4.90/order vs your incumbent's reported 99.0% at $4.10/order, with a 6-month migration and a 2-week stabilisation dip. Do you switch?
 
-**(c)** Microsoft D365 is technically capable but our implementation is half-broken. Rip-and-replace with a fit-for-purpose subscription-ops stack (6 months, $400K) or fix-in-place (12 months of incremental improvement)? Commit.
+**(c)** Your current ERP is technically capable but the implementation is half-broken. Rip-and-replace with a fit-for-purpose subscription-ops stack (6 months, ~$350K) or fix-in-place (12 months of incremental improvement)? Commit.
 
 **(d)** Your QC Specialist caught 3 defects last week that the 3PL's own QC missed. Keep the 100% in-line check (4 hours/day of labour) or trust the 3PL with monthly audits (saves labour, costs you customer-facing defects when they drift)?
 
-**(e)** *(The hard one.)* Your monthly 3PL scorecard shows 99.3% accuracy. A surprise spot-audit of 200 live orders finds 7 errors — that's 96.5%. The 3PL insists your sample is unrepresentative and points to their scorecard. Peak season starts in 3 weeks. What do you do this week, and how do you resolve the truth of the number before peak?
+**(e)** *(The hard one.)* Your monthly 3PL scorecard shows 99.2% accuracy. A surprise spot-audit of 200 live orders finds 7 errors — that's 96.5%. The 3PL insists your sample is unrepresentative and points to their scorecard. Peak season starts in 3 weeks. What do you do this week, and how do you resolve the truth of the number before peak?
 
 ### 5B. Beat the baseline directly
 
@@ -163,7 +166,7 @@ Claude's baseline answer to this challenge is strong but has blind spots. **Name
 **Ground rules:**
 
 - **Deadline:** 7 calendar days from when you receive this.
-- **Confidentiality:** Q1 2026 revenue, FY26 guidance, country count, and athlete partners are public disclosures. All operational numbers (shipment volume, accuracy, defect rate, ticket rate, team size, SKU counts) are illustrative. Treat the illustrative figures as if real; don't share externally.
+- **Confidentiality:** Only publicly disclosed facts (co-founders, athlete partners, product certifications, and Prenetics' reported financials) are genuine. **Every operational number in this brief (shipment volume, accuracy, defect rate, ticket rate, SKU/kit counts, cycle times, vendor pricing, systems cost) and the ERP/3PL details are fictional and invented for this exercise** — they do not reflect IM8's or Prenetics' actual operations or vendor relationships. Treat the illustrative figures as if real for the purpose of answering, but do not cite or share them as real company data.
 - **No AI ban.** Use whatever tools you'd use on the job. We are scoring your thinking, not your typing.
 
 A reminder: **ties don't advance. Make the calls.**

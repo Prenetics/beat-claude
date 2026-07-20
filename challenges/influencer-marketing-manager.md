@@ -1,5 +1,8 @@
 # Beat Claude Challenge: Influencer Marketing Manager
 
+> ⚠️ **THE BUSINESS FIGURES IN THIS CHALLENGE ARE FICTIONAL — NOT REAL COMPANY DATA.**
+> All the numbers below (ARR, budgets, GMV targets, programme sizes, and the like) have been **invented for this exercise**. They do **NOT** represent IM8's or Prenetics' actual financials, performance, or commercial plans, and must not be cited, quoted, or relied on as real. Only publicly disclosed facts — co-founders, athlete partners, and product certifications — are genuine.
+
 **IM8 Health | Prenetics (NASDAQ: PRE)**
 *Co-founded by David Beckham*
 
@@ -29,7 +32,7 @@ This challenge is designed to find people who can.
 
 ## About IM8
 
-IM8 is a premium nutritional supplement brand co-founded by David Beckham. Our flagship product — **Daily Ultimate Essentials** — delivers 92 clinically dosed nutrients in a single daily serving. NSF Certified for Sport, backed by a 12-week randomized controlled trial. ~$120M ARR, targeting $250M across DTC subscription, Amazon, and TikTok Shop.
+IM8 is a premium nutritional supplement brand co-founded by David Beckham. Our flagship product — **Daily Ultimate Essentials** — delivers 92 clinically dosed nutrients in a single daily serving. NSF Certified for Sport, backed by a 12-week randomized controlled trial. *(Illustrative:)* ~$110M ARR run-rate, targeting $250M+ across DTC subscription, Amazon, and TikTok Shop.
 
 Our ambassador roster: **David Beckham** (co-founder, 87M followers), **Aryna Sabalenka** (WTA #1), **Oliver Bearman** (F1, Haas), **Giannis Antetokounmpo** (NBA, Milwaukee Bucks), and **Inter Miami CF** (official hydration partner).
 
@@ -62,7 +65,7 @@ You will own IM8's influencer, creator, and affiliate strategy globally. Three m
 
 ### Scenario
 
-IM8 has zero TikTok Shop affiliates today. You've been given 90 days and the budget to build a 1,000-creator programme from scratch. The VP of Growth wants this channel generating $1.5M/month in GMV by month 3.
+IM8 has zero TikTok Shop affiliates today. You've been given 90 days and the budget to build a 1,000-creator programme from scratch. The VP of Growth wants this channel generating $1.5M/month in GMV by month 3. *(These targets are illustrative.)*
 
 ### What We Need From You
 

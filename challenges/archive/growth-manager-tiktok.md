@@ -1,5 +1,7 @@
 # Challenge: Growth Manager — TikTok Shop
 
+> ⚠️ **THE FIGURES IN THIS CHALLENGE ARE FICTIONAL — NOT REAL COMPANY DATA.** All numbers below (GMV, AOV, conversion rate, affiliate counts, SKU counts) are **invented for this exercise** and do **NOT** represent IM8's or Prenetics' actual TikTok Shop performance. Only publicly disclosed brand facts are genuine.
+
 **Role:** Growth Manager (TikTok Shop)
 **Brand:** IM8
 **Difficulty:** Hard
@@ -12,17 +14,17 @@
 
 IM8 is a premium health & supplements brand co-founded by David Beckham. We sell direct-to-consumer across multiple channels, and TikTok Shop is one of our most important growth frontiers.
 
-We currently have:
+We currently have *(all figures illustrative)*:
 - A TikTok Shop storefront with ~20 SKUs (supplements, bundles)
 - A small affiliate network (~15 active creators)
-- Monthly TikTok Shop GMV of ~$25K
+- Monthly TikTok Shop GMV of ~$30K
 - 1 LIVE shopping event per week (inconsistent results)
-- Average order value: $45
-- TikTok Shop conversion rate: 1.8%
+- Average order value: $50
+- TikTok Shop conversion rate: ~2.0%
 
 ## The Challenge
 
-**You have 90 days to 5x our TikTok Shop GMV from $25K/month to $125K/month.**
+**You have 90 days to ~4x our TikTok Shop GMV from ~$30K/month to ~$125K/month.**
 
 Build us a detailed 90-day growth plan that covers:
 
