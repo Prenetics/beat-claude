@@ -42,6 +42,7 @@ Each challenge has its own scoring rubric tailored to the role. But across all r
 | [Customer Experience Manager — IM8](./challenges/cx-manager.md) | Hard |
 | [Influencer Marketing Manager — IM8](./challenges/influencer-marketing-manager.md) | Hard |
 | [Junior Media Buyer — IM8](./challenges/junior-media-buyer.md) | Medium |
+| [Marketing Intern — IM8](./challenges/marketing-intern.md) | Medium |
 | [Retention & Lifecycle Manager — IM8](./challenges/retention-lifecycle-manager.md) | Medium |
 | [Social Media Manager — IM8](./challenges/social-media-manager.md) | Medium |
 | [Supply Chain Manager — IM8 (Hong Kong)](./challenges/supply-chain-manager-hk.md) | Hard |
