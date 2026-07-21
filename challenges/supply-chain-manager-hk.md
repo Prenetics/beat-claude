@@ -1,4 +1,5 @@
 # Beat Claude Challenge Brief
+<!-- listing: title="Supply Chain Manager — IM8 (Hong Kong)"; difficulty="Hard" -->
 
 > *Figures in this brief are illustrative, created for this exercise, and don't represent IM8's actual metrics. Publicly disclosed facts are genuine.*
 

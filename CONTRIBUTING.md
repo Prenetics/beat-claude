@@ -98,9 +98,13 @@ Ties don't advance. Good luck."]
 
 When you add `challenges/[new-role].md`, you must also:
 
-- [ ] Add the role to the **Open Challenges** table in `README.md` (with link + difficulty)
+- [ ] Add a hidden listing marker near the top of the brief so it appears in the README table:
+      `<!-- listing: title="Role Name — IM8"; difficulty="Medium|Hard" -->`
+      (The **Open Challenges** table in `README.md` is auto-generated from `challenges/*.md` by
+      `scripts/gen_challenges_table.py` — you do NOT edit the table by hand. Archiving a challenge, i.e.
+      moving its file into `challenges/archive/`, removes it from the table automatically.)
 - [ ] Create the corresponding private baseline doc in `Felice-Claude/baselines/[role]-baseline.md` (rubric + Claude's baseline answer, scored)
-- [ ] Add a tab to the Beat Claude Baselines Google Sheet so the auto-scorer can find it
+- [ ] Add a tab to the Beat Claude Baselines Google Sheet so the auto-scorer can find it (tab name must match the Teamtailor job title, or add a `BASELINE_TAB_OVERRIDES` entry in `Felice-Claude/scripts/beat_claude_scorer.py`)
 - [ ] Add a keyword route in `Felice-Claude/scorer/beat_claude_scorer.py` (in `ROLE_KEYWORDS`)
 - [ ] Add 5 Co-Pilot screening criteria to the Teamtailor job posting (each prompt ≤ 150 chars)
 - [ ] Confirm the Teamtailor pipeline has all 7 Clara stages (Inbox → Beat Claude → AI Phone Screen → Reviewing → Interview → Offered → Hired)

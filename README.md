@@ -32,16 +32,20 @@ Each challenge has its own scoring rubric tailored to the role. But across all r
 
 ## Open Challenges
 
-| Challenge | Role | Difficulty |
-|---|---|---|
-| [Social Media Manager — IM8](./challenges/social-media-manager.md) | Social Media Manager | Medium |
-| [Creative Strategist](./challenges/creative-strategist.md) | Creative Strategist | Hard |
-| [Influencer Marketing Manager](./challenges/influencer-marketing-manager.md) | Influencer Marketing Manager | Hard |
-| [Customer Experience Manager](./challenges/cx-manager.md) | CX Manager | Hard |
-| [Retention & Lifecycle Manager — IM8](./challenges/retention-lifecycle-manager.md) | Retention & Lifecycle Manager | Medium |
-| [Head of Supply Chain & Operations — IM8 (US)](./challenges/head-of-supply-chain-operations.md) | Head of Supply Chain & Operations (US) | Hard |
-| [Junior Media Buyer — IM8](./challenges/junior-media-buyer.md) | Junior Media Buyer (Paid Social) | Medium |
-| [CRO Manager — IM8](./challenges/cro-manager.md) | CRO Manager | Hard |
+<!-- This table is auto-generated from challenges/*.md by scripts/gen_challenges_table.py. -->
+<!-- Do not edit by hand — archiving a challenge (moving it to challenges/archive/) removes it here automatically. -->
+<!-- CHALLENGES:START -->
+| Challenge | Difficulty |
+|---|---|
+| [Creative Strategist — IM8](./challenges/creative-strategist.md) | Hard |
+| [CRO Manager — IM8](./challenges/cro-manager.md) | Hard |
+| [Customer Experience Manager — IM8](./challenges/cx-manager.md) | Hard |
+| [Influencer Marketing Manager — IM8](./challenges/influencer-marketing-manager.md) | Hard |
+| [Junior Media Buyer — IM8](./challenges/junior-media-buyer.md) | Medium |
+| [Retention & Lifecycle Manager — IM8](./challenges/retention-lifecycle-manager.md) | Medium |
+| [Social Media Manager — IM8](./challenges/social-media-manager.md) | Medium |
+| [Supply Chain Manager — IM8 (Hong Kong)](./challenges/supply-chain-manager-hk.md) | Hard |
+<!-- CHALLENGES:END -->
 
 More challenges added as roles open. Star or watch this repo to get notified.
 

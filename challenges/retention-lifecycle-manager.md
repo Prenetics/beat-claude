@@ -1,4 +1,5 @@
 # Beat Claude Challenge Brief
+<!-- listing: title="Retention & Lifecycle Manager — IM8"; difficulty="Medium" -->
 
 > *Figures in this brief are illustrative, created for this exercise, and don't represent IM8's actual metrics. Publicly disclosed facts are genuine.*
 

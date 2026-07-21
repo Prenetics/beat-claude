@@ -1,4 +1,5 @@
 # Beat Claude Challenge Brief
+<!-- listing: title="Customer Experience Manager — IM8"; difficulty="Hard" -->
 
 > *Figures in this brief are illustrative, created for this exercise, and don't represent IM8's actual metrics. Publicly disclosed facts are genuine.*
 
