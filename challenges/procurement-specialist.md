@@ -7,8 +7,8 @@
 
 **Company:** IM8 / Prenetics (NASDAQ: PRE)
 **Role:** Procurement Specialist — IM8 (Hong Kong, on-site)
-**Challenge Format:** One document, max 3 pages (~1,500 words), plus an optional Loom walkthrough
-**Estimated Effort:** 3–4 hours
+**Challenge Format:** One document, max 2 pages (~1,000 words), plus an optional Loom walkthrough
+**Estimated Effort:** 2–3 hours
 **Deadline:** 7 calendar days from receipt
 
 ---
@@ -17,7 +17,9 @@
 
 At IM8, we don't just review resumes — we test talent against AI.
 
-This challenge replaces the standard CV-and-cover-letter application. It's built to see how you actually work: how you compare suppliers on true landed cost, how carefully you check documents before money moves, and how you keep a launch on track when a shipment slips.
+This challenge replaces the standard CV-and-cover-letter application. It's built to see how you actually work day to day: how you keep orders on track, how carefully you check documents before money moves, and how you handle a hiccup and communicate it clearly.
+
+You don't need deep procurement theory to do well — you need to be organised, sharp-eyed, and practical.
 
 **Claude (Anthropic's AI) has already completed this exact brief.** Its output is our baseline. To advance, you need to beat it. Ties don't advance.
 
@@ -29,95 +31,98 @@ IM8 is a next-generation health and longevity brand co-founded by David Beckham 
 
 Our flagship product, **Daily Ultimate Essentials**, carries 90 active ingredients, backed by randomised controlled trials and a clinical-grade standard in a category notorious for shortcuts. Our athlete partner roster includes **David Beckham**, **Giannis Antetokounmpo**, **Aryna Sabalenka**, **Oliver Bearman**, and **Inter Miami CF**.
 
-On a subscription model, a late or wrong shipment isn't an ops hiccup — it's a broken promise to a customer who pays us every month. Procurement is a brand asset here, not a back-office function.
+On a subscription model, a late or wrong shipment isn't an ops hiccup — it's a broken promise to a customer who pays us every month. Procurement keeps that promise.
 
 ---
 
 ## The Challenge
 
-You've just joined the Procurement team in Hong Kong. IM8 is launching a **travel-size sachet** of Daily Ultimate Essentials for APAC, and you're supporting sourcing and documentation for the first production run. *(All figures below are illustrative.)*
+You've just joined the Procurement team in Hong Kong, supporting the flow of raw materials, packaging, and finished goods from our manufacturing partners to our customers. Below are three slices of a normal week. *(All details are illustrative.)*
 
 ---
 
-## Part 1 — Vendor Evaluation & Recommendation (30%)
+## Part 1 — Keep the Orders on Track (30%)
 
-You've received quotes from three packaging suppliers for an initial run of **500,000 sachets**:
+You're managing a handful of open purchase orders for an upcoming product run. Here's your tracker this morning:
 
-| Supplier | Unit price | MOQ | Lead time | Defect rate | Certifications | Incoterm | Location | Payment terms |
-|---|---|---|---|---|---|---|---|---|
-| A | $0.042 | 300,000 | 35 days | 1.8% | ISO 9001, food-grade | EXW | Shenzhen | 100% upfront |
-| B | $0.049 | 250,000 | 21 days | 0.4% | ISO 9001, BRC, food-grade | FOB | Guangzhou | 30% deposit / 70% on ship |
-| C | $0.038 | 600,000 | 45 days | 3.1% | Food-grade only | EXW | Vietnam | 100% upfront |
+| PO | Supplier | Item | Qty | Status | Expected | Notes |
+|---|---|---|---|---|---|---|
+| PO-3301 | Supplier A | Sachet film | 500,000 | Confirmed | in 12 days | On schedule |
+| PO-3302 | Supplier B | Capsules | 1,000,000 | Issued (not confirmed) | in 20 days | No order confirmation after 5 days |
+| PO-3303 | Supplier C | Cartons | 80,000 | In transit | in 3 days | No shipping documents received yet |
+| PO-3304 | Supplier D | Labels | 120,000 | Received | — | Invoice is 8% higher than the PO |
 
-Estimated inbound freight + duties to Hong Kong: EXW adds ~$0.006/unit; FOB adds ~$0.004/unit.
+### Tell us
 
-### Your answer must cover
+- For **each** order, what (if anything) you'd do next, and how urgent it is.
+- Which one you'd handle **first thing this morning**, and why.
+- How you'd keep all of this organised so nothing slips through the cracks — what your tracker and follow-up rhythm look like.
 
-- **Total landed cost per unit and total order cost** for each supplier for 500,000 units — factoring MOQ, freight/incoterm, and expected defects (units you effectively pay for but can't use). Show the arithmetic.
-- **Your recommendation**, and why the lowest unit price isn't automatically the answer (risk, lead time, certifications, cash terms).
-- **One risk** you'd flag to your manager before placing the order, and how you'd mitigate it.
+*(No heavy math here — we're looking at how you prioritise, follow up, and stay organised.)*
 
 ---
 
-## Part 2 — Catch the Discrepancies (25%)
+## Part 2 — Catch the Discrepancies (30%)
 
-Before you release payment, you're checking the paperwork for a *different* inbound order. Here's what's on file:
+This is the heart of the job: catching the error before it becomes a problem. Before you release payment on an inbound order, you're checking the paperwork:
 
 - **Purchase Order (PO-4471):** 250,000 units of Ingredient X, $0.90/unit, Incoterm **FOB Shanghai**, batch spec: purity ≥ 98%.
 - **Supplier Invoice:** 250,000 units, **$0.94/unit**, Incoterm **EXW Shanghai**, total $235,000.
-- **Certificate of Analysis:** Batch **#IX-2290**, purity **96.7%**, tested 12 days after the PO date.
-- **Packing List:** Batch **#IX-2209**, 245,000 units, gross weight consistent with ~245,000 units.
+- **Certificate of Analysis:** Batch **#IX-2290**, purity **96.7%**.
+- **Packing List:** Batch **#IX-2209**, **245,000 units**.
 
 **List every discrepancy you find**, explain why each one matters, and state what you'd do about it before approving payment. (There is more than one.)
 
 ---
 
-## Part 3 — The Supply Exception (25%)
+## Part 3 — Handle the Hiccup (20%)
 
-Two weeks before the launch production run, Supplier B tells you the sachet film will arrive **3 weeks late**. You hold **2 weeks** of safety stock of film. Options on the table:
+Supplier B (PO-3302, the capsules) tells you the order will arrive **one week later than promised**, and you have a production run booked that depends on it.
 
-- **(a)** Air-freight the film at ~4x the sea cost to hold the launch date.
-- **(b)** Split the order with a backup supplier at a higher unit price and an unproven defect rate.
-- **(c)** Push the launch date back 3 weeks.
+### Tell us
 
-**Pick one.** Show the tradeoff (cost vs. timeline vs. quality/brand risk), what you'd need to confirm to be sure, and the evidence that would change your mind. We want a decision, not a hedge — "it depends" with no specifics will fail.
+- The **first three things** you'd do.
+- **Who you'd loop in internally**, and what you'd tell them.
+- **Draft the short message** you'd send the supplier.
+
+*(We're looking at your judgment and how clearly you communicate under a little pressure — not a spreadsheet.)*
 
 ---
 
 ## Part 4 — How You Work With AI (20%)
 
-IM8 is an AI-native team. We expect you to use AI every day to move faster and catch more.
+IM8 is an AI-native team. We expect you to use AI every day to work faster and catch more.
 
-- **Two real examples** of how you use AI in your work today — the tool, the exact task, and the impact. Proof — a link, screenshot, or Loom — beats description.
-- **One AI workflow you'd build** in your first 30 days here (e.g. auto-checking invoices/CoAs against POs, or supplier-quote comparison) — the tool, what it replaces, how you'd measure whether it's working, and what could go wrong.
+- **Two real examples** of how you use AI in your work today — the tool, the exact task, and what it saved or caught. Proof — a link, screenshot, or Loom — beats description.
+- **One AI workflow you'd build** in your first 30 days here (e.g. checking invoices against POs, organising supplier documents, or drafting follow-ups) — the tool, what it replaces, and how you'd know it's working.
 
-"I use ChatGPT" is not an example. What was the task, what was the output, what did it save or catch?
+"I use ChatGPT" is not an example. What was the task, what was the output, what did it do for you?
 
 ---
 
 ## What We're Looking For
 
-- **Landed-cost thinking**, not headline unit price
 - **Meticulous document checking** — you catch what others miss before money moves
-- **A clear call under supply pressure**, backed by simple math
+- **Proactive follow-up and organisation** — nothing slips through
+- **Calm, clear communication** when something goes wrong
 - **Genuine AI-native workflow**, not tool name-drops
-- **Clean, organised communication** a busy manager can act on in two minutes
+- **Clean communication** a busy manager can act on in two minutes
 
 ---
 
 ## What We're NOT Looking For
 
-- Generic procurement theory or textbook definitions
-- Picking the cheapest quote without showing landed cost or risk
 - Missing the planted errors in Part 2
-- "It depends" hedging with no decision
+- Vague "I'd follow up" with no specifics on how, when, or with whom
+- A hiccup response with no supplier message and no internal loop-in
 - A list of AI tools with no demonstrated usage
+- Textbook procurement theory with no practical judgment
 
 ---
 
 ## How to Submit
 
-- **Format:** PDF or Google Doc, max 3 pages (excluding an optional appendix), plus an optional Loom.
+- **Format:** PDF or Google Doc, max 2 pages (excluding an optional appendix), plus an optional Loom.
 - **Option 1 — Careers page:** upload your submission on the job application form.
 - **Option 2 — Email:** send to `recruitment@prenetics.com` with subject line: `Beat Claude — Procurement Specialist — [Your Name]`.
 
@@ -127,7 +132,7 @@ IM8 is an AI-native team. We expect you to use AI every day to move faster and c
 
 ## Final Note
 
-This challenge mirrors the real work: comparing suppliers on true cost, catching the error before it becomes a problem, and keeping a launch on track when something slips. We designed it this way on purpose — we want to see how you think and how carefully you work.
+This challenge mirrors the real work: keeping orders moving, catching the error before it costs us, and handling a hiccup calmly. We designed it this way on purpose — we want to see how you think and how carefully you work, not how much jargon you know.
 
 **Ties don't advance. Good luck.**
 
