@@ -46,7 +46,7 @@ We care less about polish and more about tone, accuracy, judgment, and care for 
 
 ## Part 1 — Handle Real Customer Messages (40%)
 
-Below are three messages a Customer Service Executive at IM8 might receive. **Write the reply you would actually send** to each one.
+Below are four messages a Customer Service Executive at IM8 might receive. **Write the reply you would actually send** to each one.
 
 **Message 1 — Delivery problem (upset customer)**
 > "I ordered almost three weeks ago and my Daily Ultimate Essentials still hasn't arrived. This is ridiculous for the price. I want a refund and I'm done with IM8."
@@ -57,11 +57,14 @@ Below are three messages a Customer Service Executive at IM8 might receive. **Wr
 **Message 3 — Surprise subscription charge**
 > "I didn't realise this was a subscription — I've just been charged again and I didn't want another order. Please cancel it and refund me."
 
+**Message 4 — Adverse reaction**
+> "I started IM8 about ten days ago and I've come out in hives across my chest and arms. It's not settling. I've been taking it every morning like the instructions say. Is this normal? Should I push through or stop? I've got three more months on my subscription."
+
 ### For each reply, we are looking at:
 
 - Tone: warm, calm, human, and on-brand — never scripted or defensive
 - Accuracy: only say things you can support; do not invent policies or promise what you cannot confirm
-- Judgment: when to reassure, when to escalate, and when **not** to give an answer (see Message 2 — you are not a medical professional)
+- Judgment: when to reassure, when to escalate, and when **not** to give an answer (see Messages 2 and 4 — you are not a medical professional, and a customer's safety always comes first)
 - Resolution: a clear next step so the customer knows exactly what happens now
 
 Briefly note (one line each) any information you would need to look up or any point where you would escalate internally.
@@ -126,6 +129,7 @@ Keep it specific. We want evidence of initiative, not adjectives.
 
 - Robotic, copy-paste replies that ignore how the customer feels
 - Giving medical or dosage advice, or making health claims
+- Telling a customer to "push through" a possible adverse reaction instead of putting their safety first
 - Inventing refund, shipping, or subscription policies you cannot verify
 - Over-promising ("full refund immediately!") without a sensible next step
 - A long list of complaints with no chosen fix
