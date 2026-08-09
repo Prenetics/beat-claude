@@ -23,7 +23,7 @@ This challenge replaces the standard CV-and-cover-letter application. It tests w
 
 **Claude (Anthropic's AI) has already completed this exact brief**, given the same prompt, the same 7-day window, and the same publicly-available tools any candidate would use. Its output is a strong, complete, well-structured baseline — and it is set high on purpose. To advance, you have to clearly beat it. **Ties don't advance.**
 
-One more thing: this role requires **fluent Mandarin** — you will negotiate with Greater China suppliers daily. Part 1 asks you to show that directly.
+One more thing: you'll coordinate with Greater China suppliers regularly, so Part 1 asks you to show your negotiation instinct directly — written in whatever working language you'd actually use with these suppliers (English is completely fine).
 
 ---
 
@@ -47,7 +47,7 @@ You've just signed your offer. It's Day 1. You own the flow of product from our 
 
 - Product manufactured across a network of contract manufacturers, **much of it in Greater China**, flowing to fulfillment nodes in the **US, EU, UK, and Hong Kong**, then out to customers in **43 countries**.
 - Flagship **Daily Ultimate Essentials: 90 active ingredients**; most orders are **multi-component subscription kits**.
-- A **third-party ERP** as the inventory backbone.
+- **Microsoft Dynamics 365 (D365)** as the inventory / ERP backbone.
 - A **subscription model** that gives you a highly forecastable demand baseline — and punishes you hard when you miss it.
 
 **Illustrative operational signals (read these critically — not every number means what it appears to):**
@@ -73,7 +73,7 @@ You own the supplier network. Show us how you'd run it.
 
 Cover the calls that matter, not a textbook: how you'd **de-risk the single-sourced Guangdong ingredient** (and what you'd trade to do it), how you hold a contract manufacturer to spec once you look away, and how you'd secure **capacity commitments as our volume scales** without over-committing our own cash.
 
-**Mandarin, shown directly (scored):** In your own words, draft the **key negotiation points and the opening framing** you'd take into a price-and-capacity conversation with a Greater China contract manufacturer who wants a 9% price increase citing raw-material costs. Write this section **in Mandarin** (a short English gloss underneath is welcome). We're testing real negotiation instinct and language fluency, not a translation-tool output.
+**Negotiation, shown directly (scored):** In your own words, draft the **key negotiation points and the opening framing** you'd take into a price-and-capacity conversation with a Greater China contract manufacturer who wants a 9% price increase citing raw-material costs. Write it in the working language you'd actually use with this supplier — **English is completely fine** (if you choose to write in Mandarin, a short English gloss underneath is welcome). We're testing real negotiation instinct and leverage, not a translation-tool output. *(We screen spoken-language ability separately in the human interview — it is not scored here.)*
 
 ---
 
@@ -81,11 +81,11 @@ Cover the calls that matter, not a textbook: how you'd **de-risk the single-sour
 
 Our subscription base *should* make demand forecastable — so why is SKU-level accuracy only ~72%, and what would you actually do about it?
 
-Show the **logic of the planning model** you'd run (you don't need to build the spreadsheet, but show the inputs, the method, and the safety-stock policy — especially for long-lead Greater China inputs). Then design the **monthly S&OP process** that connects demand, supply, finance, and leadership around one plan, and make the **multi-node allocation call**: how you'd split limited stock across US / EU / UK / HK when you can't fill everyone, balancing regional availability against working capital.
+Show the **logic of the planning model** you'd run (you don't need to build the spreadsheet, but show the inputs, the method, and the safety-stock policy — especially for long-lead Greater China inputs). Cover **shelf-life / expiry (FEFO)** too: with dated product, how do you avoid stocking out in one node while writing off expired stock in another? Then design the **monthly S&OP process** that connects demand, supply, finance, and leadership around one plan, and make the **multi-node allocation call**: how you'd split limited stock across US / EU / UK / HK when you can't fill everyone, balancing regional availability against working capital.
 
 Tell us the **single number you'd manage this business by**, and why.
 
-**Finally, the working-capital number.** Earlier we said "$X of working capital is tied up in inventory." Show us how you'd actually derive that number from what an ERP environment would give you, and name the one lever you'd pull first to free cash without creating a stockout. Real math, stated assumptions.
+**Finally, the working-capital number.** Earlier we said "$X of working capital is tied up in inventory." Show us how you'd actually derive that number from what D365 would give you, and name the one lever you'd pull first to free cash without creating a stockout. Real math, stated assumptions.
 
 ---
 
@@ -139,8 +139,8 @@ Claude's baseline answer to this challenge is strong but has blind spots. **Name
 
 - **Judgment over coverage.** You tell us what matters and what to ignore, and you defend the prioritisation.
 - **You interrogate the numbers.** You don't take ~72% accuracy or a supplier CoA at face value — you can tell us where the leakage *actually* sits.
-- **Real Greater China supplier instinct.** Negotiation leverage, dual-sourcing tradeoffs, capacity commitments — shown, in Mandarin where asked.
-- **Planning discipline with a point of view.** Model logic, safety-stock policy for long-lead inputs, one number to run the business by.
+- **Real Greater China supplier instinct.** Negotiation leverage, dual-sourcing tradeoffs, capacity commitments — shown directly, in the working language you'd actually use.
+- **Planning discipline with a point of view.** Model logic, safety-stock and shelf-life/expiry policy for long-lead inputs, one number to run the business by.
 - **Commercial rigour.** Real numbers, real math, explicit dollar/margin tradeoffs. Cite sources for benchmarks.
 - **AI in the bones, with proof.** What you'd build, with what tool, on what timeline, measured how — backed by evidence you actually do this.
 
@@ -150,7 +150,7 @@ Claude's baseline answer to this challenge is strong but has blind spots. **Name
 
 - **A complete-but-generic answer.** Touching all five parts is the floor, not a pass. Coverage is not insight.
 - AI examples that are *described but not evidenced* — see the Part 4 proof gate.
-- A Mandarin section that reads like a translation tool rather than a real negotiator.
+- A negotiation section that reads like generic vendor-management boilerplate rather than a real negotiator with leverage.
 - Generic Lean Six Sigma or "S&OP best practice" copied from a textbook with no IM8 application.
 - Work that could apply to any DTC brand — we run multi-component subscription kits from Greater China to 43 markets.
 - Hedges. Pick TWO tradeoffs in Part 5 and make two clear calls.

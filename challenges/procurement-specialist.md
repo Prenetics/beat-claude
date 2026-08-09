@@ -57,6 +57,7 @@ You're managing a handful of open purchase orders for an upcoming product run. H
 - For **each** order, what (if anything) you'd do next, and how urgent it is.
 - Which one you'd handle **first thing this morning**, and why.
 - How you'd keep all of this organised so nothing slips through the cracks — what your tracker and follow-up rhythm look like.
+- If you've used an ERP (D365, SAP, NetSuite, or similar), briefly walk us through how you'd run this — from raising a purchase requisition to receiving goods. No ERP experience yet? Tell us how you'd keep the same control in a spreadsheet.
 
 *(No heavy math here — we're looking at how you prioritise, follow up, and stay organised.)*
 
