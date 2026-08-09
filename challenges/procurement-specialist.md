@@ -7,7 +7,7 @@
 
 **Company:** IM8 / Prenetics (NASDAQ: PRE)
 **Role:** Procurement Specialist — IM8 (Hong Kong, on-site)
-**Challenge Format:** One document, max 2 pages (~1,000 words), plus an optional Loom walkthrough
+**Challenge Format:** One document, max 2 pages (~1,000 words)
 **Estimated Effort:** 2–3 hours
 **Deadline:** 7 calendar days from receipt
 
@@ -94,7 +94,7 @@ Supplier B (PO-3302, the capsules) tells you the order will arrive **one week la
 
 IM8 is an AI-native team. We expect you to use AI every day to work faster and catch more.
 
-- **Two real examples** of how you use AI in your work today — the tool, the exact task, and what it saved or caught. Proof — a link, screenshot, or Loom — beats description.
+- **Two real examples** of how you use AI in your work today — the tool, the exact task, and what it saved or caught. Proof — a link or screenshot — beats description.
 - **One AI workflow you'd build** in your first 30 days here (e.g. checking invoices against POs, organising supplier documents, or drafting follow-ups) — the tool, what it replaces, and how you'd know it's working.
 
 "I use ChatGPT" is not an example. What was the task, what was the output, what did it do for you?
@@ -123,7 +123,7 @@ IM8 is an AI-native team. We expect you to use AI every day to work faster and c
 
 ## How to Submit
 
-- **Format:** PDF or Google Doc, max 2 pages (excluding an optional appendix), plus an optional Loom.
+- **Format:** PDF or Google Doc, max 2 pages (excluding an optional appendix).
 - **Option 1 — Careers page:** upload your submission on the job application form.
 - **Option 2 — Email:** send to `recruitment@prenetics.com` with subject line: `Beat Claude — Procurement Specialist — [Your Name]`.
 

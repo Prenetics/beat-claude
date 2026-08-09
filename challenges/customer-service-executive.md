@@ -147,7 +147,6 @@ Keep it specific. We want evidence of initiative, not adjectives.
 
 **Please also include:**
 
-- A Loom video of no more than **2 minutes** walking us through one of your replies and your AI workflow
 - Your resume and LinkedIn profile
 - Your location, availability, and earliest possible start date
 - Your salary expectations
