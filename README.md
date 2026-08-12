@@ -47,6 +47,7 @@ Each challenge has its own scoring rubric tailored to the role. But across all r
 | [Retention & Lifecycle Manager — IM8](./challenges/retention-lifecycle-manager.md) | Medium |
 | [Social Media Manager — IM8](./challenges/social-media-manager.md) | Medium |
 | [Supply Chain Manager — IM8 (Hong Kong)](./challenges/supply-chain-manager-hk.md) | Hard |
+| [TikTok Shop Manager — IM8](./challenges/tiktok-shop-manager.md) | Hard |
 <!-- CHALLENGES:END -->
 
 More challenges added as roles open. Star or watch this repo to get notified.
