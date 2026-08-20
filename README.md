@@ -49,6 +49,7 @@ Each challenge has its own scoring rubric tailored to the role. But across all r
 | [Social Media Manager — IM8](./challenges/social-media-manager.md) | Medium |
 | [Supply Chain Manager — IM8 (Hong Kong)](./challenges/supply-chain-manager-hk.md) | Hard |
 | [TikTok Shop Manager — IM8](./challenges/tiktok-shop-manager.md) | Hard |
+| [Video Editor (Paid Social) — IM8](./challenges/video-editor-paid-social.md) | Medium |
 <!-- CHALLENGES:END -->
 
 More challenges added as roles open. Star or watch this repo to get notified.
