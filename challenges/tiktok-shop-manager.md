@@ -9,7 +9,7 @@
 **Role:** TikTok Shop Manager — IM8 (Remote, US hours preferred; Miami a plus)
 **Challenge Format:** 90-Day Channel Operating Plan + AI Workflow Examples
 **Estimated Effort:** 2–3 hours
-**Deadline:** 7 calendar days from receipt
+**Deadline:** as soon as possible — we review on a rolling basis, so earlier is better.
 
 ---
 
@@ -19,7 +19,7 @@ This is a role for an operator who has already run and scaled a US TikTok Shop �
 
 **We are not scoring coverage. We are scoring judgment and hands-on depth.** A tidy plan that touches every topic but names no specific mechanics, rates, or trade-offs will not pass. Show us the numbers you'd commit to and the calls you'd make.
 
-**Claude (Anthropic's AI) has already completed this exact brief**, given the same prompt, the same 7-day window, and the same publicly-available tools any candidate would use. Its output is a strong, complete, well-structured baseline — set high on purpose. To advance, you have to clearly beat it. **Ties don't advance.**
+**Claude (Anthropic's AI) has already completed this exact brief**, given the same prompt and the same publicly-available tools any candidate would use. Its output is a strong, complete, well-structured baseline — set high on purpose. To advance, you have to clearly beat it. **Ties don't advance.**
 
 ---
 

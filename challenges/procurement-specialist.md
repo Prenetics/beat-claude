@@ -9,7 +9,7 @@
 **Role:** Procurement Specialist — IM8 (Hong Kong, on-site)
 **Challenge Format:** One document, max 2 pages (~1,000 words)
 **Estimated Effort:** 2–3 hours
-**Deadline:** 7 calendar days from receipt
+**Deadline:** as soon as possible — we review on a rolling basis, so earlier is better.
 
 ---
 

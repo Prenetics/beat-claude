@@ -9,7 +9,7 @@
 **Role:** Head of Content — IM8 (Remote US; significant overlap with Hong Kong hours required)
 **Challenge Format:** Take-Home Assignment (PDF or Google Slides, max 12 pages excl. appendix), plus a Loom
 **Estimated Effort:** 8–10 hours
-**Deadline:** 7 calendar days from receipt
+**Deadline:** as soon as possible — we review on a rolling basis, so earlier is better.
 
 ---
 

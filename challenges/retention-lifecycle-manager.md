@@ -9,7 +9,7 @@
 **Role:** Retention & Lifecycle Manager — IM8
 **Challenge Format:** One memo, max 6 pages (~3,000 words), plus a Loom walkthrough
 **Estimated Effort:** 10–14 hours
-**Deadline:** 7 calendar days from receipt
+**Deadline:** as soon as possible — we review on a rolling basis, so earlier is better.
 
 ## About This Challenge
 
@@ -19,7 +19,7 @@ At IM8, we don't review resumes. We test talent against AI.
 
 This challenge replaces the standard CV-and-cover-letter application. It is designed to evaluate your ability to think in cohorts, make hard commercial calls under constraint, and build the AI-native retention engine that turns a category-leading DTC brand into a generational consumer franchise.
 
-**Claude (Anthropic's AI) has already completed this exact brief**, given the same prompt and the same 7-day window, with access to the same publicly-available tools any candidate would use. Its output is our baseline. Three IM8 leaders score every human submission blind against Claude's, and the majority decision stands. To advance, you need a majority of those three votes. Ties to Claude don't advance.
+**Claude (Anthropic's AI) has already completed this exact brief**, given the same prompt, with access to the same publicly-available tools any candidate would use. Its output is our baseline. Three IM8 leaders score every human submission blind against Claude's, and the majority decision stands. To advance, you need a majority of those three votes. Ties to Claude don't advance.
 
 ## About IM8
 
@@ -209,7 +209,7 @@ Pick **ONE** of these four decisions. Tell us exactly what you'd do, why, and wh
 
 **Ground rules:**
 
-- **Deadline:** 7 calendar days from when you receive this.
+- **Deadline:** as soon as possible — we review on a rolling basis, so earlier is better.
 - **Confidentiality:** Only publicly disclosed facts (co-founders, athlete partners, product certifications, and Prenetics' reported financials) are genuine. **Every cohort- and operations-level number in this brief (subscriber count, MRR, ARR, churn rates, revenue retention, LTV, cross-sell, ROAS, FY27 ARR target, pricing, vendor stack) is fictional and invented for this exercise** — it does not reflect IM8's or Prenetics' actual metrics. Treat the illustrative figures as if real for the purpose of answering, but do not cite or share them as real company data.
 - **No AI ban.** Use whatever tools you'd use on the job. We are scoring your thinking, not your typing.
 

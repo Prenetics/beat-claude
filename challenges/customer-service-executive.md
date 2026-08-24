@@ -10,7 +10,7 @@
 **Challenge Format:** Take-Home Assignment  
 **Estimated Effort:** 1.5–2 hours  
 **Page Limit:** 3 pages, excluding prompt/output evidence  
-**Deadline:** 7 calendar days from receipt
+**Deadline:** as soon as possible — we review on a rolling basis, so earlier is better.
 
 ---
 

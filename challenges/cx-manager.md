@@ -9,7 +9,7 @@
 **Role:** Customer Experience Manager
 **Challenge Format:** CX Operating Model + Org & Cost-to-Serve Plan + AI Workflow Examples + Judgment Calls
 **Estimated Effort:** 6–8 hours
-**Deadline:** 7 calendar days from receipt
+**Deadline:** as soon as possible — we review on a rolling basis, so earlier is better.
 
 ---
 
@@ -21,7 +21,7 @@ This challenge replaces the standard CV-and-cover-letter application. It evaluat
 
 **We are not scoring coverage. We are scoring judgment.** A thorough answer that touches every topic but says nothing non-obvious will not pass. We want to see what *you* would prioritise, what you'd deliberately ignore, where you'd push back on the brief itself, and what you'd catch that a competent generalist (or an AI) would miss.
 
-**Claude (Anthropic's AI) has already completed this exact brief**, given the same prompt, the same 7-day window, and the same publicly-available tools any candidate would use. Its output is a strong, complete, well-structured baseline — and it is deliberately set high. To advance, you have to clearly beat it. **Ties don't advance.**
+**Claude (Anthropic's AI) has already completed this exact brief**, given the same prompt and the same publicly-available tools any candidate would use. Its output is a strong, complete, well-structured baseline — and it is deliberately set high. To advance, you have to clearly beat it. **Ties don't advance.**
 
 ---
 
@@ -172,7 +172,7 @@ Claude's baseline answer to this challenge is strong but has blind spots. **Name
 
 **Ground rules:**
 
-- **Deadline:** 7 calendar days from when you receive this.
+- **Deadline:** as soon as possible — we review on a rolling basis, so earlier is better.
 - **Confidentiality:** Only publicly disclosed facts (co-founders, athlete partners, product certifications, and Prenetics' reported financials) are genuine. **Every operational number in this brief (team size, ticket rate, AI resolution rate, CSAT, response times, churn, cost-to-serve) and the named service vendor are fictional and invented for this exercise** — they do not reflect IM8's or Prenetics' actual CX metrics or vendor relationships. Treat the illustrative figures as if real for the purpose of answering, but do not cite or share them as real company data.
 - **No AI ban.** Use whatever tools you'd use on the job. We are scoring your thinking, not your typing.
 

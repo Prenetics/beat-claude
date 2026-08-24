@@ -77,7 +77,7 @@ candidates need to know what NOT to do.]
 - A **Loom video** walking us through your thinking and key decisions
 - Your **current salary** and **expected salary**
 
-**Deadline:** 7 calendar days from when you receive this brief.
+**Deadline:** as soon as possible — we review on a rolling basis, so earlier is better.
 
 ---
 

@@ -105,7 +105,7 @@ Editing craft (pacing, sound design, motion, polish), brand fluency, and how cle
 - **Option 2 — Email:** send to `recruitment@prenetics.com` with subject line:
   `Beat Claude — Video Editor Paid Social — [Your Name]`
 - Please also include a short **Loom** walking us through your edit decisions, plus your **current** and **expected** salary.
-- **Deadline:** 7 days from receipt.
+- **Deadline:** as soon as possible — we review on a rolling basis, so earlier is better.
 
 ---
 

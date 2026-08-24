@@ -9,7 +9,7 @@
 **Role:** Supply Chain Manager — IM8 (Hong Kong)
 **Challenge Format:** Sourcing & Operations Plan + Planning Model + AI Workflow Examples
 **Estimated Effort:** 6–8 hours
-**Deadline:** 7 calendar days from receipt
+**Deadline:** as soon as possible — we review on a rolling basis, so earlier is better.
 
 ---
 
@@ -21,7 +21,7 @@ This challenge replaces the standard CV-and-cover-letter application. It tests w
 
 **We are not scoring coverage. We are scoring judgment.** A thorough answer that touches every topic but says nothing non-obvious will not pass. We want to see what *you* would prioritise, what you'd ignore, where you'd push back on the brief, and what you'd catch that a competent generalist (or an AI) would miss.
 
-**Claude (Anthropic's AI) has already completed this exact brief**, given the same prompt, the same 7-day window, and the same publicly-available tools any candidate would use. Its output is a strong, complete, well-structured baseline — and it is set high on purpose. To advance, you have to clearly beat it. **Ties don't advance.**
+**Claude (Anthropic's AI) has already completed this exact brief**, given the same prompt and the same publicly-available tools any candidate would use. Its output is a strong, complete, well-structured baseline — and it is set high on purpose. To advance, you have to clearly beat it. **Ties don't advance.**
 
 One more thing: you'll coordinate with Greater China suppliers regularly, so Part 1 asks you to show your negotiation instinct directly — written in whatever working language you'd actually use with these suppliers (English is completely fine).
 
@@ -173,7 +173,7 @@ Claude's baseline answer to this challenge is strong but has blind spots. **Name
 
 **Ground rules:**
 
-- **Deadline:** 7 calendar days from when you receive this.
+- **Deadline:** as soon as possible — we review on a rolling basis, so earlier is better.
 - **Confidentiality:** Q1 2026 revenue, FY26 guidance, country count, and athlete partners are public disclosures. All operational numbers (manufacturer count, lead times, forecast accuracy, fill rate, weeks of supply, defect signals) are illustrative and created for this exercise; they don't represent IM8's actual operations. Treat the illustrative figures as if real for the purpose of answering, but don't cite or share them as real company data.
 - **No AI ban.** Use whatever tools you'd use on the job. We are scoring your thinking, not your typing.
 

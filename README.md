@@ -18,7 +18,7 @@ At Prenetics, we believe the best candidates bring what AI can't — creative le
 - **Copy-pasting AI output = a tie** — Ties don't advance. Claude already gave us that answer
 - **One submission only** — Make it count
 - **Format:** PDF or Google Slides (max pages specified per challenge)
-- **Deadline:** 5 calendar days from when you receive the brief
+- **Deadline:** as soon as possible — we review on a rolling basis, so earlier is better.
 
 ## What We're Looking For
 
