@@ -43,6 +43,7 @@ Each challenge has its own scoring rubric tailored to the role. But across all r
 | [Customer Service Executive — IM8](./challenges/customer-service-executive.md) | Medium |
 | [Head of Content — IM8](./challenges/head-of-content.md) | Hard |
 | [Influencer Marketing Manager — IM8](./challenges/influencer-marketing-manager.md) | Hard |
+| [Intermediate Graphic Designer — IM8](./challenges/intermediate-graphic-designer.md) | Medium |
 | [Marketing Intern — IM8](./challenges/marketing-intern.md) | Medium |
 | [Procurement Specialist — IM8](./challenges/procurement-specialist.md) | Medium |
 | [Retention & Lifecycle Manager — IM8](./challenges/retention-lifecycle-manager.md) | Medium |
