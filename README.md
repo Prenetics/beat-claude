@@ -49,7 +49,6 @@ Each challenge has its own scoring rubric tailored to the role. But across all r
 | [Procurement Specialist — IM8](./challenges/procurement-specialist.md) | Medium |
 | [Retention & Lifecycle Manager — IM8](./challenges/retention-lifecycle-manager.md) | Medium |
 | [Senior Media Buyer (Meta) — IM8](./challenges/senior-media-buyer.md) | Hard |
-| [Senior Media Buyer (TikTok) — IM8](./challenges/senior-media-buyer-tiktok.md) | Hard |
 | [Senior Procurement Manager, Ingredients — IM8 (Hong Kong)](./challenges/senior-procurement-manager-ingredients.md) | Hard |
 | [Social Media Manager — IM8](./challenges/social-media-manager.md) | Medium |
 | [Supply Chain Manager — IM8 (Hong Kong)](./challenges/supply-chain-manager-hk.md) | Hard |
