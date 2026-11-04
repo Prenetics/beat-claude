@@ -39,20 +39,10 @@ Each challenge has its own scoring rubric tailored to the role. But across all r
 |---|---|
 | [AP Accountant — Finance](./challenges/ap-accountant.md) | Hard |
 | [Creative Strategist — IM8](./challenges/creative-strategist.md) | Hard |
-| [CRO Manager — IM8](./challenges/cro-manager.md) | Hard |
 | [Customer Experience Manager — IM8](./challenges/cx-manager.md) | Hard |
 | [Customer Service Executive — IM8](./challenges/customer-service-executive.md) | Medium |
-| [Head of Content — IM8](./challenges/head-of-content.md) | Hard |
-| [Influencer Marketing Manager — IM8](./challenges/influencer-marketing-manager.md) | Hard |
-| [Intermediate Graphic Designer — IM8](./challenges/intermediate-graphic-designer.md) | Medium |
 | [Marketing Intern — IM8](./challenges/marketing-intern.md) | Medium |
-| [Procurement Specialist — IM8](./challenges/procurement-specialist.md) | Medium |
-| [Retention & Lifecycle Manager — IM8](./challenges/retention-lifecycle-manager.md) | Medium |
 | [Senior Media Buyer (Meta) — IM8](./challenges/senior-media-buyer.md) | Hard |
-| [Senior Procurement Manager, Ingredients — IM8 (Hong Kong)](./challenges/senior-procurement-manager-ingredients.md) | Hard |
-| [Social Media Manager — IM8](./challenges/social-media-manager.md) | Medium |
-| [Supply Chain Manager — IM8 (Hong Kong)](./challenges/supply-chain-manager-hk.md) | Hard |
-| [TikTok Shop Manager — IM8](./challenges/tiktok-shop-manager.md) | Hard |
 | [Video Editor (Paid Social) — IM8](./challenges/video-editor-paid-social.md) | Medium |
 <!-- CHALLENGES:END -->
 
