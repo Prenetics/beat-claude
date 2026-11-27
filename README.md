@@ -37,6 +37,7 @@ Each challenge has its own scoring rubric tailored to the role. But across all r
 <!-- CHALLENGES:START -->
 | Challenge | Difficulty |
 |---|---|
+| [Accountant / Senior Accountant, GL & Intercompany — Finance](./challenges/gl-accountant.md) | Hard |
 | [AP Accountant — Finance](./challenges/ap-accountant.md) | Hard |
 | [Creative Strategist — IM8](./challenges/creative-strategist.md) | Hard |
 | [Customer Experience Manager — IM8](./challenges/cx-manager.md) | Hard |
